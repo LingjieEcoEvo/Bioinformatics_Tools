@@ -1,2 +1,2 @@
 # Bioinformatics_Tools
-This is a personal repository to save the small tools used in work
+This is a personal repository to store the tools I used in bioinformatics.
