@@ -18,3 +18,6 @@ Using the pipeline provided, the value of density index could be automatically g
 The pipeline is written in Python v3.9.16.
 The pipeline requires Prodigal and HMMER3 for gene call and HMM searches.
 
+## Contact
+lingjie@kuicr.kyoto-u.ac.jp
+
