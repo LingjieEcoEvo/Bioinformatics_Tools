@@ -19,5 +19,5 @@ metabat2_bin_19_217  -          NCVOG0022            -            1.7e-49  167.6
 # Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
 # Option settings: hmmsearch --tblout hmmout/NCVOG0022.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0022.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
 # Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
-# Date:            Sun Mar 10 13:06:32 2024
+# Date:            Sun Mar 10 14:02:29 2024
 # [ok]

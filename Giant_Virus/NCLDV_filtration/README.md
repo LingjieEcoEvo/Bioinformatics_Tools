@@ -8,12 +8,16 @@ In brief, we selected 20 marker genes of Nucleo-Cytoplasmic Virus Orthologous Gr
 We used a reference dataset, including Archaea, Bacteria and Eukaryota genomes, as well as a NCLDV reference dataset to assess whether this work is effective.  
 From the plot,  
 ![Varification](./images/score_genome_dot.tiff)  
-a clear seperation was observed. y-axis is the sum of weights of 20 NCVOGs and x-axis is the log10(genome size).
+a clear seperation between NCLDV and cellular genomes was observed. y-axis is the sum of weights of 20 NCVOGs and x-axis is the log10(genome size).
 
 So then we calculate the Density index based on this plot, and find that a cut-off of 5.75 of Density index is fine to get reliable NCLDV bins.  
 <img src="./images/equation.png" alt="equation" width="50%" />  
 
-Using the pipeline provided, the value of density index could be automatically generated.
+Using the pipeline provided, the value of density index could be automatically generated.  
+  
+Running the script using the provided "test_bins" should generate the same output in "test_output".  
+  
+You can see metabat2_bin_1, metabat2_bin_6, metabat2_bin_13, metabat2_bin_1 ar potential NCLDV bins.
 
 ## Dependencies
 The pipeline is written in Python v3.9.16.
