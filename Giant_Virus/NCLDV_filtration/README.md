@@ -6,7 +6,7 @@ In brief, we selected 20 marker genes of Nucleo-Cytoplasmic Virus Orthologous Gr
 
 ## Verification and Output
 We used a reference dataset, including Archaea, Bacteria and Eukaryota genomes, as well as a NCLDV reference dataset to assess whether this work is effective.  
-From the plot,
+From the plot,  
 ![Varification](./images/score_genome_dot.tiff)  
 a clear seperation was observed. y-axis is the sum of weights of 20 NCVOGs and x-axis is the log10(genome size).
 
