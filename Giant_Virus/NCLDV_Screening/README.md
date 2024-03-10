@@ -14,7 +14,6 @@ So then we calculate the Density index based on this plot, and find that a cut-o
 <img src="./images/equation.png" alt="equation" width="50%" />  
 
 Using the pipeline provided, the value of density index could be automatically generated.  
-  
 Running the script using the provided "test_bins" should generate the same output in "test_output".  
   
 You can see metabat2_bin_1, metabat2_bin_6, metabat2_bin_13, metabat2_bin_1 are potential NCLDV bins.
