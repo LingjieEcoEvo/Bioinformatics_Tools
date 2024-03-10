@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_13_143  -          NCVOG0022            -           3.1e-163  542.4   0.0  3.5e-163  542.2   0.0   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_6_57    -          NCVOG0022            -           8.8e-137  455.2   0.4    1e-136  455.0   0.4   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_6_154   -          NCVOG0022            -            3.3e-98  328.1   1.8   6.5e-98  327.1   1.8   1.4   1   1   0   1   1   1   1 -
+metabat2_bin_6_19    -          NCVOG0022            -            2.2e-95  318.8   3.3   2.7e-95  318.5   3.3   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_6_157   -          NCVOG0022            -            1.1e-94  316.5  14.9   1.5e-94  316.0  14.9   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_13_187  -          NCVOG0022            -            4.3e-92  307.9  19.4   5.1e-92  307.7  19.4   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_6_135   -          NCVOG0022            -              4e-88  294.9  16.5   4.8e-88  294.6  16.5   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_6_136   -          NCVOG0022            -            1.6e-83  279.7  19.4   2.1e-83  279.3  19.4   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_6_15    -          NCVOG0022            -            5.1e-75  251.7  22.4   6.6e-75  251.3  22.4   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_19_217  -          NCVOG0022            -            1.7e-49  167.6   9.6   2.2e-49  167.2   9.6   1.1   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG0022.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG0022.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0022.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:32 2024
+# [ok]

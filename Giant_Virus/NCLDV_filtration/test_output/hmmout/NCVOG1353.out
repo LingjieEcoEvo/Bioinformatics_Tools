@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_20_113  -          NCVOG1353            -                  0 1193.9   0.0         0 1193.7   0.0   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_6_90    -          NCVOG1353            -                  0 1185.1   3.9         0 1184.9   3.9   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_19_99   -          NCVOG1353            -                  0 1119.3   0.9         0 1119.0   0.9   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_13_119  -          NCVOG1353            -                  0 1110.5  26.3         0 1110.2  26.3   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_16_61   -          NCVOG1353            -           2.2e-200  666.4   5.4  2.6e-200  666.2   5.4   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_5_69    -          NCVOG1353            -           7.6e-122  406.7   0.0   3.3e-45  153.3   0.0   3.0   1   1   2   3   3   3   3 -
+metabat2_bin_1_296   -          NCVOG1353            -            1.1e-57  194.5   0.0   1.5e-56  190.8   0.0   2.5   1   1   0   1   1   1   1 -
+metabat2_bin_18_688  -          NCVOG1353            -            5.4e-44  149.3   0.4   5.7e-27   93.0   0.1   3.8   3   1   0   3   3   3   3 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG1353.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG1353.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG1353.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:34 2024
+# [ok]

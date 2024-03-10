@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_13_116  -          NCVOG0052            -            3.5e-45  152.4  12.1   4.5e-45  152.0  12.1   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_13_304  -          NCVOG0052            -              9e-24   82.7   5.7   1.1e-23   82.3   5.7   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_19_167  -          NCVOG0052            -              3e-05   22.4   0.0   3.6e-05   22.1   0.0   1.1   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG0052.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG0052.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0052.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:32 2024
+# [ok]

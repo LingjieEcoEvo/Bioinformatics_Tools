@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_13_58   -          NCVOG0236            -            6.4e-46  155.2  19.2   7.4e-46  155.0  19.2   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_6_151   -          NCVOG0236            -              1e-14   53.3   4.0   1.2e-14   53.1   4.0   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_18_337  -          NCVOG0236            -              4e-09   35.1   0.3   5.6e-09   34.6   0.1   1.4   2   0   0   2   2   2   1 -
+metabat2_bin_9_970   -          NCVOG0236            -            1.4e-08   33.3   0.0   1.6e-08   33.1   0.0   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_16_60   -          NCVOG0236            -            3.8e-08   31.8   0.2   4.4e-07   28.4   0.2   2.0   1   1   0   1   1   1   1 -
+metabat2_bin_4_14    -          NCVOG0236            -            3.1e-07   28.9   0.0   4.1e-07   28.5   0.0   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_11_29   -          NCVOG0236            -            1.6e-06   26.5   0.0     2e-06   26.3   0.0   1.1   1   0   0   1   1   1   1 -
+metabat2_bin_9_107   -          NCVOG0236            -            2.9e-06   25.7   0.0   3.6e-06   25.4   0.0   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_18_398  -          NCVOG0236            -            5.7e-06   24.8   0.4   8.9e-06   24.1   0.4   1.6   1   1   0   1   1   1   1 -
+metabat2_bin_11_8    -          NCVOG0236            -            6.3e-05   21.3   0.0   8.3e-05   21.0   0.0   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_1_47    -          NCVOG0236            -            0.00012   20.5   0.0   0.00025   19.4   0.0   1.5   2   0   0   2   2   2   0 -
+metabat2_bin_18_666  -          NCVOG0236            -            0.00013   20.4   0.6    0.0006   18.1   0.7   2.2   1   1   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG0236.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG0236.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0236.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:33 2024
+# [ok]

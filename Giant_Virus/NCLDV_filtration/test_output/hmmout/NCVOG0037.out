@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_6_13    -          NCVOG0037            -                  0 1421.4  30.6         0 1421.3  30.6   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_13_181  -          NCVOG0037            -                  0 1360.1  55.0         0 1359.9  55.0   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_19_75   -          NCVOG0037            -                  0 1236.1   9.1         0 1235.8   9.1   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_9_1911  -          NCVOG0037            -            4.7e-67  225.2   0.0     6e-67  224.9   0.0   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_18_1089 -          NCVOG0037            -              2e-62  209.9   6.5   2.7e-62  209.5   6.5   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_18_95   -          NCVOG0037            -            4.7e-62  208.6   0.0   7.7e-62  208.0   0.0   1.2   1   0   0   1   1   1   1 -
+metabat2_bin_4_165   -          NCVOG0037            -            4.9e-62  208.6   0.0   2.8e-61  206.1   0.0   1.8   2   0   0   2   2   2   1 -
+metabat2_bin_18_19   -          NCVOG0037            -            1.4e-36  124.3   0.0   2.3e-36  123.6   0.0   1.3   1   0   0   1   1   1   1 -
+metabat2_bin_9_1909  -          NCVOG0037            -            8.8e-30  101.8   0.0   1.2e-29  101.3   0.0   1.1   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG0037.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG0037.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0037.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:32 2024
+# [ok]

@@ -1,0 +1,21 @@
+core_gene	weight	annotatiaon
+NCVOG0022	0.9	NCLDV major capsid protein (pfam03340 for Poxviridae; pfam04451 for others)
+NCVOG0023	1.1	D5-like helicase-primase
+NCVOG0037	0.5	DNA topoisomerase II
+NCVOG0038	1.1	DNA polymerase elongation subunit family B
+NCVOG0052	0.9	disulfide (thiol) oxidoreductase; Erv1 / Alr family (pfam04777)
+NCVOG0076	1	DNA or RNA helicases of superfamily II (COG1061)
+NCVOG0236	0.8	Nudix hydrolase (D10 ortholog)
+NCVOG0249	1	A32-like packaging ATPase
+NCVOG0261	0.7	"Poxvirus early transcription factor (VETF), large subunit (pfam04441)"
+NCVOG0262	1	"pfam04947, Poxvirus Late Transcription Factor VLTF3 like"
+NCVOG0271	0.9	DNA-directed RNA polymerase subunit beta 
+NCVOG0272	1	Transcription factor S-II (TFIIS)-domain-containing protein
+NCVOG0273	0.8	divergent DNA-directed RNA polymerase subunit 5
+NCVOG0274	0.9	DNA-directed RNA polymerase subunit alpha
+NCVOG0276	0.8	Ribonucleotide reductase small subunit; apparent eukaryotic origin
+NCVOG1060	0.6	FLAP-like endonuclease XPG (cd00128)
+NCVOG1117	0.7	 mRNA capping enzyme large subunit
+NCVOG1127	0.4	transcription initiation factor IIB
+NCVOG1164	1	A1L transcription factor/late transcription factor VLTF-2; pfam03295: Pox_TAA1; Poxvirus trans-activator protein A1 C-terminal
+NCVOG1353	0.8	"ribonucleoside diphosphate reductase, alpha subunit"

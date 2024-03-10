@@ -1,0 +1,57 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+metabat2_bin_6_137   -          NCVOG0249            -           1.3e-109  364.9  10.8  1.6e-109  364.7  10.8   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_13_214  -          NCVOG0249            -           3.2e-108  360.4   4.0  3.9e-108  360.1   4.0   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_19_187  -          NCVOG0249            -           1.8e-107  358.0   5.6  2.1e-107  357.8   5.6   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_14_151  -          NCVOG0249            -             4e-104  347.0   4.5  4.5e-104  346.8   4.5   1.0   1   0   0   1   1   1   1 -
+metabat2_bin_18_1546 -          NCVOG0249            -            3.4e-05   22.0   1.8      0.12   10.4   0.2   2.8   2   0   0   2   2   2   0 -
+metabat2_bin_9_1927  -          NCVOG0249            -              6e-05   21.1   0.0   8.7e-05   20.6   0.0   1.1   1   0   0   1   1   1   0 -
+metabat2_bin_20_142  -          NCVOG0249            -            0.00011   20.3   0.2      0.24    9.3   0.0   2.3   2   0   0   2   2   2   0 -
+metabat2_bin_9_1891  -          NCVOG0249            -            0.00017   19.7   0.0     0.068   11.1   0.0   2.2   2   0   0   2   2   2   0 -
+metabat2_bin_18_1027 -          NCVOG0249            -            0.00019   19.5   0.4   0.00036   18.6   0.4   1.5   1   0   0   1   1   1   0 -
+metabat2_bin_18_1342 -          NCVOG0249            -            0.00063   17.8   0.1    0.0067   14.4   0.0   2.0   2   0   0   2   2   2   0 -
+metabat2_bin_4_83    -          NCVOG0249            -             0.0009   17.3   0.0    0.0014   16.7   0.0   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_18_1343 -          NCVOG0249            -             0.0011   17.0   0.2     0.004   15.2   0.1   1.9   3   0   0   3   3   3   0 -
+metabat2_bin_9_1773  -          NCVOG0249            -             0.0012   16.9   0.0     0.062   11.3   0.0   2.2   2   0   0   2   2   2   0 -
+metabat2_bin_3_7     -          NCVOG0249            -             0.0021   16.1  14.0      0.01   13.9   1.2   3.9   2   2   2   4   4   4   0 -
+metabat2_bin_18_13   -          NCVOG0249            -             0.0021   16.1   0.7      0.43    8.5   0.1   2.4   2   0   0   2   2   2   0 -
+metabat2_bin_9_430   -          NCVOG0249            -             0.0027   15.7   0.0    0.0036   15.3   0.0   1.3   1   0   0   1   1   1   0 -
+metabat2_bin_9_176   -          NCVOG0249            -             0.0038   15.2   0.3    0.0097   13.9   0.0   1.8   2   1   1   3   3   3   0 -
+metabat2_bin_18_323  -          NCVOG0249            -             0.0053   14.8   0.2    0.0087   14.1   0.2   1.3   1   0   0   1   1   1   0 -
+metabat2_bin_11_14   -          NCVOG0249            -             0.0096   13.9   5.1      0.08   10.9   0.1   3.3   3   1   1   4   4   4   0 -
+metabat2_bin_19_15   -          NCVOG0249            -             0.0096   13.9   0.9     0.036   12.0   0.0   2.3   2   0   0   2   2   2   0 -
+metabat2_bin_19_36   -          NCVOG0249            -             0.0098   13.9   0.1    0.0098   13.9   0.1   2.4   1   1   0   2   2   1   0 -
+metabat2_bin_9_317   -          NCVOG0249            -               0.01   13.8   0.1      0.02   12.9   0.1   1.3   1   0   0   1   1   1   0 -
+metabat2_bin_9_174   -          NCVOG0249            -              0.012   13.5   0.1     0.019   13.0   0.1   1.1   1   0   0   1   1   1   0 -
+metabat2_bin_18_114  -          NCVOG0249            -              0.012   13.5   1.3         1    7.2   0.1   2.5   2   0   0   2   2   2   0 -
+metabat2_bin_4_189   -          NCVOG0249            -              0.016   13.2   0.1     0.023   12.7   0.1   1.1   1   0   0   1   1   1   0 -
+metabat2_bin_3_22    -          NCVOG0249            -              0.016   13.2   0.2     0.016   13.2   0.2   2.4   1   1   1   2   2   2   0 -
+metabat2_bin_18_401  -          NCVOG0249            -              0.022   12.7   0.0     0.034   12.1   0.0   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_9_656   -          NCVOG0249            -              0.024   12.6   0.1     0.052   11.5   0.1   1.5   1   0   0   1   1   1   0 -
+metabat2_bin_9_1841  -          NCVOG0249            -              0.024   12.6   0.1      0.14   10.1   0.0   1.9   2   0   0   2   2   2   0 -
+metabat2_bin_18_1378 -          NCVOG0249            -              0.028   12.4   0.0     0.032   12.2   0.0   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_20_43   -          NCVOG0249            -              0.032   12.2   0.2     0.058   11.4   0.2   1.4   1   0   0   1   1   1   0 -
+metabat2_bin_11_125  -          NCVOG0249            -              0.037   12.0   0.1     0.062   11.3   0.1   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_16_33   -          NCVOG0249            -              0.047   11.6   0.1       0.1   10.5   0.0   1.5   2   0   0   2   2   2   0 -
+metabat2_bin_18_324  -          NCVOG0249            -              0.048   11.6   0.9     0.077   10.9   0.6   1.6   1   1   0   1   1   1   0 -
+metabat2_bin_9_1738  -          NCVOG0249            -               0.05   11.6   0.0     0.065   11.2   0.0   1.1   1   0   0   1   1   1   0 -
+metabat2_bin_9_917   -          NCVOG0249            -              0.052   11.5   0.0      0.08   10.9   0.0   1.2   1   0   0   1   1   1   0 -
+metabat2_bin_9_2059  -          NCVOG0249            -              0.055   11.4   0.0     0.079   10.9   0.0   1.1   1   0   0   1   1   1   0 -
+metabat2_bin_9_558   -          NCVOG0249            -              0.056   11.4   0.0      0.59    8.0   0.0   2.1   2   0   0   2   2   2   0 -
+metabat2_bin_4_21    -          NCVOG0249            -              0.057   11.4   0.0      0.11   10.4   0.0   1.4   1   0   0   1   1   1   0 -
+metabat2_bin_9_1307  -          NCVOG0249            -              0.057   11.4   0.1     0.096   10.6   0.1   1.3   1   0   0   1   1   1   0 -
+metabat2_bin_9_434   -          NCVOG0249            -              0.057   11.4   0.0      0.11   10.4   0.0   1.5   1   0   0   1   1   1   0 -
+metabat2_bin_11_130  -          NCVOG0249            -              0.058   11.4   0.0      0.13   10.2   0.0   1.5   1   0   0   1   1   1   0 -
+metabat2_bin_9_781   -          NCVOG0249            -              0.074   11.0   0.1       1.3    6.9   0.0   2.1   2   0   0   2   2   2   0 -
+metabat2_bin_9_74    -          NCVOG0249            -              0.086   10.8   0.0      0.12   10.3   0.0   1.2   1   0   0   1   1   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hallmark_hmm/NCVOG0249.hmm
+# Target file:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa
+# Option settings: hmmsearch --tblout hmmout/NCVOG0249.out --notextw --incE 1e-5 --cpu 10 hallmark_hmm/NCVOG0249.hmm /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration/all_cds.faa 
+# Current dir:     /Users/lingjie/github/Bioinformatics_Tools/Giant_Virus/NCLDV_filtration
+# Date:            Sun Mar 10 13:06:33 2024
+# [ok]
