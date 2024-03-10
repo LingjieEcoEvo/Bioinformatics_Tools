@@ -10,9 +10,7 @@ From the plot,
 a clear seperation was observed. y-axis is the sum of weights of 20 NCVOGs and x-axis is the log10(genome size).
 
 So then we calculate the Density index based on this plot, and find that a cut-off of 5.75 of Density index is fine to get reliable NCLDV bins.
-$$
-\text{Density index} = \frac{\sum_{k=1}^{20} \text{weight}_k}{\log_{10}(\text{genome size}) - 4}
-$$
+![equation](./images/equation.png)  
 
 Using the pipeline provided, the value of density index could be automatically generated.
 
