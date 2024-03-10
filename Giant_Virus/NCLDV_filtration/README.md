@@ -17,7 +17,7 @@ Using the pipeline provided, the value of density index could be automatically g
   
 Running the script using the provided "test_bins" should generate the same output in "test_output".  
   
-You can see metabat2_bin_1, metabat2_bin_6, metabat2_bin_13, metabat2_bin_1 ar potential NCLDV bins.
+You can see metabat2_bin_1, metabat2_bin_6, metabat2_bin_13, metabat2_bin_1 are potential NCLDV bins.
 
 ## Dependencies
 The pipeline is written in Python v3.9.16.
