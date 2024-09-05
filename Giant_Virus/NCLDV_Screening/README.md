@@ -23,7 +23,7 @@ The pipeline is written in Python v3.9.16.
 The pipeline requires Prodigal and HMMER3 for gene call and HMM searches.
 
 ## Citation
-Genome-resolved year-round dynamics reveal a broad range of giant virus microdiveristy, in Prep.
+Fang, Yue, et al. "Genome-resolved year-round dynamics reveal a broad range of giant virus microdiversity." bioRxiv (2024). [link](https://www.biorxiv.org/content/10.1101/2024.07.08.602415v1)
 
 ## Contact
 lingjie@kuicr.kyoto-u.ac.jp
