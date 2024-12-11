@@ -1,0 +1,2544 @@
+
+195.Skunkpox.virus.proteins
+201.Volepox.virus.proteins
+INT_14	195.Skunkpox.virus.proteins	201.Volepox.virus.proteins
+191.Raccoonpox.virus.proteins
+INT_13	INT_14	191.Raccoonpox.virus.proteins
+199.Taterapox.virus.proteins
+175.Camelpox.virus.proteins
+INT_22	199.Taterapox.virus.proteins	175.Camelpox.virus.proteins
+200.Variola.virus.proteins
+INT_21	INT_22	200.Variola.virus.proteins
+183.Monkeypox.virus.Zaire-96-I-16.proteins
+083.Vaccinia.virus.proteins
+INT_26	183.Monkeypox.virus.Zaire-96-I-16.proteins	083.Vaccinia.virus.proteins
+INT_20	INT_21	INT_26
+177.Cowpox.virus.proteins
+INT_19	INT_20	177.Cowpox.virus.proteins
+179.Ectromelia.virus.proteins
+INT_18	INT_19	179.Ectromelia.virus.proteins
+INT_12	INT_13	INT_18
+204.Yoka.poxvirus.proteins
+186.NY.014.poxvirus.proteins
+184.Murmansk.poxvirus.proteins
+INT_33	186.NY.014.poxvirus.proteins	184.Murmansk.poxvirus.proteins
+INT_31	204.Yoka.poxvirus.proteins	INT_33
+INT_11	INT_12	INT_31
+173.BeAn.58058.virus.proteins
+176.Cotia.virus.SPAn232.proteins
+INT_41	173.BeAn.58058.virus.proteins	176.Cotia.virus.SPAn232.proteins
+190.Rabbit.fibroma.virus.proteins
+185.Myxoma.virus.proteins
+082.Myxoma.virus.proteins
+INT_46	185.Myxoma.virus.proteins	082.Myxoma.virus.proteins
+INT_44	190.Rabbit.fibroma.virus.proteins	INT_46
+INT_40	INT_41	INT_44
+181.Goatpox.virus.Pellor.proteins
+194.Sheeppox.virus.proteins
+182.Lumpy.skin.disease.virus.NI-2490.proteins
+INT_52	194.Sheeppox.virus.proteins	182.Lumpy.skin.disease.virus.NI-2490.proteins
+INT_50	181.Goatpox.virus.Pellor.proteins	INT_52
+196.Swinepox.virus.proteins
+INT_49	INT_50	196.Swinepox.virus.proteins
+INT_39	INT_40	INT_49
+178.Deerpox.virus.W-848-83.proteins
+INT_38	INT_39	178.Deerpox.virus.W-848-83.proteins
+202.Yaba.monkey.tumor.virus.proteins
+197.Tanapox.virus.proteins
+198.Tanapox.virus.proteins
+INT_60	197.Tanapox.virus.proteins	198.Tanapox.virus.proteins
+203.Yaba-like.disease.virus.proteins
+INT_59	INT_60	203.Yaba-like.disease.virus.proteins
+INT_57	202.Yaba.monkey.tumor.virus.proteins	INT_59
+INT_37	INT_38	INT_57
+180.Eptesipox.virus.proteins
+INT_36	INT_37	180.Eptesipox.virus.proteins
+INT_10	INT_11	INT_36
+189.Pteropox.virus.proteins
+192.Sea.otter.poxvirus.proteins
+INT_65	189.Pteropox.virus.proteins	192.Sea.otter.poxvirus.proteins
+INT_9	INT_10	INT_65
+193.Seal.parapoxvirus.proteins
+188.Pseudocowpox.virus.proteins
+085.Orf.virus.proteins
+INT_73	188.Pseudocowpox.virus.proteins	085.Orf.virus.proteins
+INT_71	193.Seal.parapoxvirus.proteins	INT_73
+187.Parapoxvirus.red.deer.proteins
+INT_70	INT_71	187.Parapoxvirus.red.deer.proteins
+174.Bovine.papular.stomatitis.virus.proteins
+INT_69	INT_70	174.Bovine.papular.stomatitis.virus.proteins
+084.Squirrelpox.virus.proteins
+INT_68	INT_69	084.Squirrelpox.virus.proteins
+INT_8	INT_9	INT_68
+081.Molluscum.contagiosum.virus.proteins
+INT_7	INT_8	081.Molluscum.contagiosum.virus.proteins
+166.Fowlpox.virus.proteins
+167.Penguinpox.virus.proteins
+168.Pigeonpox.virus.proteins
+INT_85	167.Penguinpox.virus.proteins	168.Pigeonpox.virus.proteins
+165.Flamingopox.virus.FGPVKD09.proteins
+INT_84	INT_85	165.Flamingopox.virus.FGPVKD09.proteins
+INT_82	166.Fowlpox.virus.proteins	INT_84
+080.Canarypox.virus.proteins
+INT_81	INT_82	080.Canarypox.virus.proteins
+169.Turkeypox.virus.proteins
+INT_80	INT_81	169.Turkeypox.virus.proteins
+INT_6	INT_7	INT_80
+079.Nile.crocodilepox.virus.proteins
+INT_5	INT_6	079.Nile.crocodilepox.virus.proteins
+086.Yaravirus.brasiliensis.isolate.BHMG.proteins
+INT_4	INT_5	086.Yaravirus.brasiliensis.isolate.BHMG.proteins
+205.Salmon.gill.poxvirus.proteins
+INT_3	INT_4	205.Salmon.gill.poxvirus.proteins
+076.Mythimna.separata.entomopoxvirus.proteins
+075.Amsacta.moorei.entomopoxvirus.proteins
+172.Choristoneura.rosaceana.entomopoxvirus.L.proteins
+171.Choristoneura.biennis.entomopoxvirus.proteins
+INT_101	172.Choristoneura.rosaceana.entomopoxvirus.L.proteins	171.Choristoneura.biennis.entomopoxvirus.proteins
+INT_99	075.Amsacta.moorei.entomopoxvirus.proteins	INT_101
+170.Adoxophyes.honmai.entomopoxvirus.L.proteins
+INT_98	INT_99	170.Adoxophyes.honmai.entomopoxvirus.L.proteins
+INT_96	076.Mythimna.separata.entomopoxvirus.proteins	INT_98
+077.Anomala.cuprea.entomopoxvirus.proteins
+INT_95	INT_96	077.Anomala.cuprea.entomopoxvirus.proteins
+078.Melanoplus.sanguinipes.entomopoxvirus.proteins
+INT_94	INT_95	078.Melanoplus.sanguinipes.entomopoxvirus.proteins
+INT_2	INT_3	INT_94
+UUJ171113.matabat2bin.140.proteins
+UUJ170612.matabat2bin.178.proteins
+UUJ180718.matabat2bin.171.proteins
+INT_118	UUJ170612.matabat2bin.178.proteins	UUJ180718.matabat2bin.171.proteins
+INT_116	UUJ171113.matabat2bin.140.proteins	INT_118
+UUJ170612.matabat2bin.102.proteins
+INT_115	INT_116	UUJ170612.matabat2bin.102.proteins
+UUJ170706.matabat2bin.124.decontaminated.proteins
+INT_114	INT_115	UUJ170706.matabat2bin.124.decontaminated.proteins
+UUJ180718.matabat2bin.287.proteins
+INT_113	INT_114	UUJ180718.matabat2bin.287.proteins
+UUJ180718.matabat2bin.297.proteins
+INT_112	INT_113	UUJ180718.matabat2bin.297.proteins
+UUJ170620.matabat2bin.371.decontaminated.proteins
+UUJ170620.matabat2bin.454.proteins
+INT_126	UUJ170620.matabat2bin.371.decontaminated.proteins	UUJ170620.matabat2bin.454.proteins
+UUJ171218.matabat2bin.310.proteins
+INT_125	INT_126	UUJ171218.matabat2bin.310.proteins
+INT_111	INT_112	INT_125
+074.Kaumoebavirus.proteins
+INT_110	INT_111	074.Kaumoebavirus.proteins
+073.African.swine.fever.virus.proteins
+091.Abalone.asfarvirus.proteins
+INT_133	073.African.swine.fever.virus.proteins	091.Abalone.asfarvirus.proteins
+UUM180827.matabat2bin.338.proteins
+UUJ180925.matabat2bin.296.proteins
+INT_137	UUM180827.matabat2bin.338.proteins	UUJ180925.matabat2bin.296.proteins
+UUJ180903.matabat2bin.487.proteins
+INT_136	INT_137	UUJ180903.matabat2bin.487.proteins
+INT_132	INT_133	INT_136
+072.Pacmanvirus.A23.proteins
+071.Faustovirus.strain.E12.proteins
+INT_141	072.Pacmanvirus.A23.proteins	071.Faustovirus.strain.E12.proteins
+INT_131	INT_132	INT_141
+INT_109	INT_110	INT_131
+UUJ170612.matabat2bin.366.proteins
+INT_108	INT_109	UUJ170612.matabat2bin.366.proteins
+UUJ180725.matabat2bin.355.proteins
+UUJ180510.matabat2bin.445.proteins
+INT_145	UUJ180725.matabat2bin.355.proteins	UUJ180510.matabat2bin.445.proteins
+INT_107	INT_108	INT_145
+INT_1	INT_2	INT_107
+UUJ170927.matabat2bin.20.proteins
+UUJ170623.matabat2bin.5.proteins
+UUJ170927.matabat2bin.356.proteins
+INT_157	UUJ170623.matabat2bin.5.proteins	UUJ170927.matabat2bin.356.proteins
+INT_155	UUJ170927.matabat2bin.20.proteins	INT_157
+UUM180827.matabat2bin.335.proteins
+INT_154	INT_155	UUM180827.matabat2bin.335.proteins
+UUJ180622.matabat2bin.44.proteins
+UUJ170927.matabat2bin.41.proteins
+UUJ180219.matabat2bin.100.proteins
+INT_174	UUJ170927.matabat2bin.41.proteins	UUJ180219.matabat2bin.100.proteins
+INT_172	UUJ180622.matabat2bin.44.proteins	INT_174
+UUJ180725.matabat2bin.12.proteins
+INT_171	INT_172	UUJ180725.matabat2bin.12.proteins
+UUJ170623.matabat2bin.328.proteins
+UUJ180725.matabat2bin.150.proteins
+INT_178	UUJ170623.matabat2bin.328.proteins	UUJ180725.matabat2bin.150.proteins
+INT_170	INT_171	INT_178
+UUJ170523.matabat2bin.155.decontaminated.proteins
+UUJ180815.matabat2bin.312.proteins
+INT_182	UUJ170523.matabat2bin.155.decontaminated.proteins	UUJ180815.matabat2bin.312.proteins
+UUJ170523.matabat2bin.53.proteins
+INT_181	INT_182	UUJ170523.matabat2bin.53.proteins
+INT_169	INT_170	INT_181
+UUJ180809.matabat2bin.141.decontaminated.proteins
+UUJ170412.matabat2bin.131.proteins
+INT_190	UUJ180809.matabat2bin.141.decontaminated.proteins	UUJ170412.matabat2bin.131.proteins
+UUJ170523.matabat2bin.62.proteins
+INT_189	INT_190	UUJ170523.matabat2bin.62.proteins
+UUJ180510.matabat2bin.37.decontaminated.proteins
+INT_188	INT_189	UUJ180510.matabat2bin.37.decontaminated.proteins
+UUJ180815.matabat2bin.352.proteins
+INT_187	INT_188	UUJ180815.matabat2bin.352.proteins
+UUJ180410.matabat2bin.5.proteins
+UUJ170523.matabat2bin.348.proteins
+INT_196	UUJ180410.matabat2bin.5.proteins	UUJ170523.matabat2bin.348.proteins
+INT_186	INT_187	INT_196
+INT_168	INT_169	INT_186
+UUJ180313.matabat2bin.53.proteins
+UUJ180622.matabat2bin.14.proteins
+INT_201	UUJ180313.matabat2bin.53.proteins	UUJ180622.matabat2bin.14.proteins
+UUJ170927.matabat2bin.183.proteins
+INT_200	INT_201	UUJ170927.matabat2bin.183.proteins
+UUJ180510.matabat2bin.377.proteins
+UUJ180925.matabat2bin.22.proteins
+UUJ180802.matabat2bin.13.proteins
+INT_208	UUJ180925.matabat2bin.22.proteins	UUJ180802.matabat2bin.13.proteins
+INT_206	UUJ180510.matabat2bin.377.proteins	INT_208
+UUJ170501.matabat2bin.54.proteins
+UUJ180622.matabat2bin.98.proteins
+INT_211	UUJ170501.matabat2bin.54.proteins	UUJ180622.matabat2bin.98.proteins
+INT_205	INT_206	INT_211
+INT_199	INT_200	INT_205
+INT_167	INT_168	INT_199
+UUJ180725.matabat2bin.329.proteins
+UUJ180110.matabat2bin.180.proteins
+INT_215	UUJ180725.matabat2bin.329.proteins	UUJ180110.matabat2bin.180.proteins
+UUJ180827.matabat2bin.431.proteins
+INT_214	INT_215	UUJ180827.matabat2bin.431.proteins
+INT_166	INT_167	INT_214
+UUJ180903.matabat2bin.452.proteins
+UUJ180718.matabat2bin.95.proteins
+INT_219	UUJ180903.matabat2bin.452.proteins	UUJ180718.matabat2bin.95.proteins
+INT_165	INT_166	INT_219
+UUJ180629.matabat2bin.36.proteins
+UUJ171113.matabat2bin.236.proteins
+INT_222	UUJ180629.matabat2bin.36.proteins	UUJ171113.matabat2bin.236.proteins
+INT_164	INT_165	INT_222
+UUJ180313.matabat2bin.236.proteins
+UUJ170612.matabat2bin.368.proteins
+INT_225	UUJ180313.matabat2bin.236.proteins	UUJ170612.matabat2bin.368.proteins
+INT_163	INT_164	INT_225
+UUJ171113.matabat2bin.361.proteins
+INT_162	INT_163	UUJ171113.matabat2bin.361.proteins
+UUJ180815.matabat2bin.245.proteins
+UUF170621.matabat2bin.23.proteins
+INT_232	UUJ180815.matabat2bin.245.proteins	UUF170621.matabat2bin.23.proteins
+UUJ180815.matabat2bin.341.proteins
+UUJ180903.matabat2bin.416.proteins
+INT_235	UUJ180815.matabat2bin.341.proteins	UUJ180903.matabat2bin.416.proteins
+INT_231	INT_232	INT_235
+UUJ170927.matabat2bin.258.proteins
+UUJ170804.matabat2bin.303.proteins
+UUJ170105.matabat2bin.81.proteins
+INT_243	UUJ170804.matabat2bin.303.proteins	UUJ170105.matabat2bin.81.proteins
+INT_241	UUJ170927.matabat2bin.258.proteins	INT_243
+UUJ170615.matabat2bin.262.proteins
+UUJ170612.matabat2bin.70.proteins
+INT_246	UUJ170615.matabat2bin.262.proteins	UUJ170612.matabat2bin.70.proteins
+INT_240	INT_241	INT_246
+UUJ170927.matabat2bin.37.proteins
+INT_239	INT_240	UUJ170927.matabat2bin.37.proteins
+UUJ180802.matabat2bin.60.proteins
+UUJ170721.matabat2bin.326.proteins
+INT_253	UUJ180802.matabat2bin.60.proteins	UUJ170721.matabat2bin.326.proteins
+UUJ180809.matabat2bin.37.proteins
+INT_252	INT_253	UUJ180809.matabat2bin.37.proteins
+UUJ180809.matabat2bin.230.proteins
+UUJ170818.matabat2bin.25.proteins
+INT_260	UUJ180809.matabat2bin.230.proteins	UUJ170818.matabat2bin.25.proteins
+UUJ180925.matabat2bin.56.proteins
+UUJ180802.matabat2bin.104.proteins
+INT_263	UUJ180925.matabat2bin.56.proteins	UUJ180802.matabat2bin.104.proteins
+INT_259	INT_260	INT_263
+UUJ170804.matabat2bin.363.proteins
+UUJ170721.matabat2bin.138.proteins
+INT_266	UUJ170804.matabat2bin.363.proteins	UUJ170721.matabat2bin.138.proteins
+INT_258	INT_259	INT_266
+UUJ180903.matabat2bin.486.decontaminated.proteins
+INT_257	INT_258	UUJ180903.matabat2bin.486.decontaminated.proteins
+INT_251	INT_252	INT_257
+UUJ180802.matabat2bin.127.proteins
+UUJ180802.matabat2bin.168.proteins
+INT_273	UUJ180802.matabat2bin.127.proteins	UUJ180802.matabat2bin.168.proteins
+UUJ180903.matabat2bin.234.proteins
+INT_272	INT_273	UUJ180903.matabat2bin.234.proteins
+UUJ170726.matabat2bin.117.proteins
+INT_271	INT_272	UUJ170726.matabat2bin.117.proteins
+UUJ170927.matabat2bin.164.decontaminated.proteins
+UUJ170721.matabat2bin.250.proteins
+INT_278	UUJ170927.matabat2bin.164.decontaminated.proteins	UUJ170721.matabat2bin.250.proteins
+INT_270	INT_271	INT_278
+INT_250	INT_251	INT_270
+INT_238	INT_239	INT_250
+INT_230	INT_231	INT_238
+UUJ170804.matabat2bin.173.proteins
+UUJ180903.matabat2bin.315.proteins
+INT_282	UUJ170804.matabat2bin.173.proteins	UUJ180903.matabat2bin.315.proteins
+UUJ170630.matabat2bin.20.proteins
+UUJ170612.matabat2bin.376.proteins
+INT_288	UUJ170630.matabat2bin.20.proteins	UUJ170612.matabat2bin.376.proteins
+UUJ170927.matabat2bin.129.proteins
+INT_287	INT_288	UUJ170927.matabat2bin.129.proteins
+UUJ170105.matabat2bin.314.proteins
+INT_286	INT_287	UUJ170105.matabat2bin.314.proteins
+UUJ170612.matabat2bin.181.decontaminated.proteins
+INT_285	INT_286	UUJ170612.matabat2bin.181.decontaminated.proteins
+INT_281	INT_282	INT_285
+INT_229	INT_230	INT_281
+INT_161	INT_162	INT_229
+INT_153	INT_154	INT_161
+087.Heliothis.virescens.ascovirus.3f.proteins
+088.Heliothis.virescens.ascovirus.3g.proteins
+057.Heliothis.virescens.ascovirus.3e.proteins
+INT_302	088.Heliothis.virescens.ascovirus.3g.proteins	057.Heliothis.virescens.ascovirus.3e.proteins
+089.Heliothis.virescens.ascovirus.3h.proteins
+090.Heliothis.virescens.ascovirus.3j.proteins
+INT_305	089.Heliothis.virescens.ascovirus.3h.proteins	090.Heliothis.virescens.ascovirus.3j.proteins
+INT_301	INT_302	INT_305
+INT_299	087.Heliothis.virescens.ascovirus.3f.proteins	INT_301
+059.Spodoptera.frugiperda.ascovirus.1a.proteins
+INT_298	INT_299	059.Spodoptera.frugiperda.ascovirus.1a.proteins
+058.Trichoplusia.ni.ascovirus.2c.proteins
+INT_297	INT_298	058.Trichoplusia.ni.ascovirus.2c.proteins
+056.Diadromus.pulchellus.ascovirus.4a.proteins
+INT_296	INT_297	056.Diadromus.pulchellus.ascovirus.4a.proteins
+060.Armadillidium.vulgare.iridescent.virus.proteins
+119.Armadillidium.vulgare.iridescent.virus.proteins
+INT_312	060.Armadillidium.vulgare.iridescent.virus.proteins	119.Armadillidium.vulgare.iridescent.virus.proteins
+061.Invertebrate.iridescent.virus.6.proteins
+INT_311	INT_312	061.Invertebrate.iridescent.virus.6.proteins
+INT_295	INT_296	INT_311
+062.Daphnia.iridovirus.1.proteins
+120.Invertebrate.iridescent.virus.22.proteins
+122.Invertebrate.iridovirus.22.proteins
+INT_322	120.Invertebrate.iridescent.virus.22.proteins	122.Invertebrate.iridovirus.22.proteins
+121.Invertebrate.iridescent.virus.30.proteins
+INT_321	INT_322	121.Invertebrate.iridescent.virus.30.proteins
+123.Invertebrate.iridovirus.25.proteins
+063.Wiseana.iridescent.virus.proteins
+INT_326	123.Invertebrate.iridovirus.25.proteins	063.Wiseana.iridescent.virus.proteins
+INT_320	INT_321	INT_326
+117.Aedes.taeniorhynchus.iridescent.virus.proteins
+064.Aedes.taeniorhynchus.iridescent.virus.proteins
+INT_329	117.Aedes.taeniorhynchus.iridescent.virus.proteins	064.Aedes.taeniorhynchus.iridescent.virus.proteins
+INT_319	INT_320	INT_329
+118.Anopheles.minimus.irodovirus.proteins
+INT_318	INT_319	118.Anopheles.minimus.irodovirus.proteins
+INT_316	062.Daphnia.iridovirus.1.proteins	INT_318
+INT_294	INT_295	INT_316
+INT_152	INT_153	INT_294
+068.Lymphocystis.disease.virus.Sa.proteins
+103.Lymphocystis.disease.virus.-.isolate.China.proteins
+INT_337	068.Lymphocystis.disease.virus.Sa.proteins	103.Lymphocystis.disease.virus.-.isolate.China.proteins
+104.Lymphocystis.disease.virus.1.proteins
+INT_336	INT_337	104.Lymphocystis.disease.virus.1.proteins
+095.Bohle.iridovirus.proteins
+101.German.gecko.ranavirus.proteins
+INT_345	095.Bohle.iridovirus.proteins	101.German.gecko.ranavirus.proteins
+115.Tortoise.ranavirus.proteins
+092.Ambystoma.tigrinum.stebbensi.virus.proteins
+093.Ambystoma.tigrinum.virus.proteins
+INT_352	092.Ambystoma.tigrinum.stebbensi.virus.proteins	093.Ambystoma.tigrinum.virus.proteins
+097.Cod.iridovirus.proteins
+107.Ranavirus.maximus.proteins
+INT_356	097.Cod.iridovirus.proteins	107.Ranavirus.maximus.proteins
+111.Short-finned.eel.ranavirus.proteins
+100.European.sheat.Fish.virus.proteins
+INT_360	111.Short-finned.eel.ranavirus.proteins	100.European.sheat.Fish.virus.proteins
+099.Epizootic.haematopoietic.necrosis.virus.proteins
+INT_359	INT_360	099.Epizootic.haematopoietic.necrosis.virus.proteins
+INT_355	INT_356	INT_359
+INT_351	INT_352	INT_355
+098.Common.midwife.toad.ranavirus.proteins
+096.Chinese.giant.salamander.iridovirus.proteins
+094.Andrias.davidianus.ranavirus.proteins
+INT_367	096.Chinese.giant.salamander.iridovirus.proteins	094.Andrias.davidianus.ranavirus.proteins
+113.Testudo.hermanni.ranavirus.proteins
+INT_366	INT_367	113.Testudo.hermanni.ranavirus.proteins
+INT_364	098.Common.midwife.toad.ranavirus.proteins	INT_366
+INT_350	INT_351	INT_364
+INT_348	115.Tortoise.ranavirus.proteins	INT_350
+INT_344	INT_345	INT_348
+114.Tiger.frog.virus.proteins
+INT_343	INT_344	114.Tiger.frog.virus.proteins
+069.Frog.virus.3.proteins
+112.Soft-shelled.turtle.iridovirus.proteins
+106.Rana.grylio.iridovirus.proteins
+INT_374	112.Soft-shelled.turtle.iridovirus.proteins	106.Rana.grylio.iridovirus.proteins
+INT_372	069.Frog.virus.3.proteins	INT_374
+INT_342	INT_343	INT_372
+070.Singapore.grouper.iridovirus.proteins
+102.Grouper.iridovirus.proteins
+INT_377	070.Singapore.grouper.iridovirus.proteins	102.Grouper.iridovirus.proteins
+INT_341	INT_342	INT_377
+INT_335	INT_336	INT_341
+108.Red.sea-bream.iridovirus.proteins
+110.Rock.bream.iridovirus.isolate.RBIV-C1.proteins
+109.Rock.bream.iridovirus.proteins
+INT_386	110.Rock.bream.iridovirus.isolate.RBIV-C1.proteins	109.Rock.bream.iridovirus.proteins
+105.Orange-spotted.grouper.iridovirus.proteins
+INT_385	INT_386	105.Orange-spotted.grouper.iridovirus.proteins
+INT_383	108.Red.sea-bream.iridovirus.proteins	INT_385
+116.Turbot.reddish.body.iridovirus.proteins
+INT_382	INT_383	116.Turbot.reddish.body.iridovirus.proteins
+066.Infectious.spleen.and.kidney.necrosis.virus.proteins
+INT_381	INT_382	066.Infectious.spleen.and.kidney.necrosis.virus.proteins
+067.Scale.drop.disease.virus.proteins
+INT_380	INT_381	067.Scale.drop.disease.virus.proteins
+INT_334	INT_335	INT_380
+124.Shrimp.hemocyte.iridescent.virus.isolate.20141215.proteins
+065.Cherax.quadricarinatus.iridovirus.proteins
+INT_393	124.Shrimp.hemocyte.iridescent.virus.isolate.20141215.proteins	065.Cherax.quadricarinatus.iridovirus.proteins
+INT_333	INT_334	INT_393
+INT_151	INT_152	INT_333
+208.Dikerogammarus.haemobaphes.virus.1.proteins
+207.Carcinus.maenas.virus.1.proteins
+206.Panulirus.argus.virus.1.proteins
+INT_398	207.Carcinus.maenas.virus.1.proteins	206.Panulirus.argus.virus.1.proteins
+INT_396	208.Dikerogammarus.haemobaphes.virus.1.proteins	INT_398
+INT_150	INT_151	INT_396
+051.Tunisvirus.fontaine2.proteins
+130.Insectomime.virus.proteins
+INT_407	051.Tunisvirus.fontaine2.proteins	130.Insectomime.virus.proteins
+049.Brazilian.marseillevirus.proteins
+INT_406	INT_407	049.Brazilian.marseillevirus.proteins
+127.Kurlavirus.proteins
+128.Noumeavirus.proteins
+INT_412	127.Kurlavirus.proteins	128.Noumeavirus.proteins
+129.Port-miou.virus.proteins
+050.Lausannevirus.proteins
+INT_415	129.Port-miou.virus.proteins	050.Lausannevirus.proteins
+INT_411	INT_412	INT_415
+INT_405	INT_406	INT_411
+048.Golden.Marseillevirus.proteins
+INT_404	INT_405	048.Golden.Marseillevirus.proteins
+052.Tokyovirus.A1.proteins
+054.Melbournevirus.proteins
+125.Cannes.8.virus.proteins
+INT_422	054.Melbournevirus.proteins	125.Cannes.8.virus.proteins
+126.Marseillevirus.Shangai.isolate.1.proteins
+053.Marseillevirus.marseillevirus.strain.T19.proteins
+INT_425	126.Marseillevirus.Shangai.isolate.1.proteins	053.Marseillevirus.marseillevirus.strain.T19.proteins
+INT_421	INT_422	INT_425
+INT_419	052.Tokyovirus.A1.proteins	INT_421
+INT_403	INT_404	INT_419
+UUJ170818.matabat2bin.245.proteins
+UUJ180827.matabat2bin.429.proteins
+UUJ170620.matabat2bin.473.proteins
+INT_430	UUJ180827.matabat2bin.429.proteins	UUJ170620.matabat2bin.473.proteins
+INT_428	UUJ170818.matabat2bin.245.proteins	INT_430
+INT_402	INT_403	INT_428
+045.Cedratvirus.A11.proteins
+044.Cedratvirus.lausannensis.proteins
+043.Cedratvirus.Zaza.IHUMI.proteins
+INT_440	044.Cedratvirus.lausannensis.proteins	043.Cedratvirus.Zaza.IHUMI.proteins
+INT_438	045.Cedratvirus.A11.proteins	INT_440
+046.Brazilian.cedratvirus.IHUMI.proteins
+INT_437	INT_438	046.Brazilian.cedratvirus.IHUMI.proteins
+042.Pithovirus.sibericum.isolate.P1084-T.proteins
+INT_436	INT_437	042.Pithovirus.sibericum.isolate.P1084-T.proteins
+047.Orpheovirus.IHUMI-LCC2.proteins
+INT_435	INT_436	047.Orpheovirus.IHUMI-LCC2.proteins
+UUJ170412.matabat2bin.86.proteins
+UUM180827.matabat2bin.334.proteins
+UUJ170626.matabat2bin.52.proteins
+INT_450	UUM180827.matabat2bin.334.proteins	UUJ170626.matabat2bin.52.proteins
+INT_448	UUJ170412.matabat2bin.86.proteins	INT_450
+UUJ170626.matabat2bin.235.decontaminated.proteins
+INT_447	INT_448	UUJ170626.matabat2bin.235.decontaminated.proteins
+UUJ180903.matabat2bin.22.proteins
+INT_446	INT_447	UUJ180903.matabat2bin.22.proteins
+INT_434	INT_435	INT_446
+UUJ180718.matabat2bin.383.proteins
+INT_433	INT_434	UUJ180718.matabat2bin.383.proteins
+INT_401	INT_402	INT_433
+INT_149	INT_150	INT_401
+UUM171110.matabat2bin.2.proteins
+UUJ180827.matabat2bin.432.decontaminated.proteins
+INT_461	UUM171110.matabat2bin.2.proteins	UUJ180827.matabat2bin.432.decontaminated.proteins
+UUJ171113.matabat2bin.359.proteins
+UUJ170804.matabat2bin.59.proteins
+INT_466	UUJ171113.matabat2bin.359.proteins	UUJ170804.matabat2bin.59.proteins
+UUJ170630.matabat2bin.43.decontaminated.proteins
+UUJ170626.matabat2bin.393.proteins
+INT_469	UUJ170630.matabat2bin.43.decontaminated.proteins	UUJ170626.matabat2bin.393.proteins
+INT_465	INT_466	INT_469
+UUJ180809.matabat2bin.313.decontaminated.proteins
+UUJ180809.matabat2bin.168.proteins
+INT_472	UUJ180809.matabat2bin.313.decontaminated.proteins	UUJ180809.matabat2bin.168.proteins
+INT_464	INT_465	INT_472
+INT_460	INT_461	INT_464
+UUJ170927.matabat2bin.173.proteins
+UUJ170804.matabat2bin.406.proteins
+INT_484	UUJ170927.matabat2bin.173.proteins	UUJ170804.matabat2bin.406.proteins
+UUJ180510.matabat2bin.148.proteins
+UUJ170804.matabat2bin.280.proteins
+INT_487	UUJ180510.matabat2bin.148.proteins	UUJ170804.matabat2bin.280.proteins
+INT_483	INT_484	INT_487
+UUJ170804.matabat2bin.84.proteins
+INT_482	INT_483	UUJ170804.matabat2bin.84.proteins
+UUJ170804.matabat2bin.53.proteins
+INT_481	INT_482	UUJ170804.matabat2bin.53.proteins
+UUJ171113.matabat2bin.330.proteins
+UUJ170306.matabat2bin.35.proteins
+INT_495	UUJ171113.matabat2bin.330.proteins	UUJ170306.matabat2bin.35.proteins
+UUJ180815.matabat2bin.323.proteins
+UUJ180725.matabat2bin.9.proteins
+UUJ180219.matabat2bin.220.decontaminated.proteins
+INT_502	UUJ180725.matabat2bin.9.proteins	UUJ180219.matabat2bin.220.decontaminated.proteins
+UUJ180629.matabat2bin.87.decontaminated.proteins
+UUJ180725.matabat2bin.327.proteins
+INT_505	UUJ180629.matabat2bin.87.decontaminated.proteins	UUJ180725.matabat2bin.327.proteins
+INT_501	INT_502	INT_505
+UUJ180718.matabat2bin.374.proteins
+INT_500	INT_501	UUJ180718.matabat2bin.374.proteins
+INT_498	UUJ180815.matabat2bin.323.proteins	INT_500
+INT_494	INT_495	INT_498
+UUJ180622.matabat2bin.373.decontaminated.proteins
+INT_493	INT_494	UUJ180622.matabat2bin.373.decontaminated.proteins
+UUJ180802.matabat2bin.308.decontaminated.proteins
+UUJ180528.matabat2bin.313.proteins
+INT_510	UUJ180802.matabat2bin.308.decontaminated.proteins	UUJ180528.matabat2bin.313.proteins
+INT_492	INT_493	INT_510
+INT_480	INT_481	INT_492
+150.Emiliania.huxleyi.virus.201.proteins
+153.Emiliania.huxleyi.virus.207.proteins
+INT_517	150.Emiliania.huxleyi.virus.201.proteins	153.Emiliania.huxleyi.virus.207.proteins
+154.Emiliania.huxleyi.virus.208.proteins
+INT_516	INT_517	154.Emiliania.huxleyi.virus.208.proteins
+152.Emiliania.huxleyi.virus.203.proteins
+INT_515	INT_516	152.Emiliania.huxleyi.virus.203.proteins
+155.Emiliania.huxleyi.virus.84.proteins
+156.Emiliania.huxleyi.virus.88.proteins
+INT_524	155.Emiliania.huxleyi.virus.84.proteins	156.Emiliania.huxleyi.virus.88.proteins
+148.Emiliania.huxleyi.virus.164.proteins
+146.Emiliania.huxleyi.virus.145.proteins
+INT_528	148.Emiliania.huxleyi.virus.164.proteins	146.Emiliania.huxleyi.virus.145.proteins
+028.Emiliania.huxleyi.virus.86.proteins
+INT_527	INT_528	028.Emiliania.huxleyi.virus.86.proteins
+INT_523	INT_524	INT_527
+157.Emiliania.huxleyi.virus.99B1.proteins
+INT_522	INT_523	157.Emiliania.huxleyi.virus.99B1.proteins
+INT_514	INT_515	INT_522
+151.Emiliania.huxleyi.virus.202.proteins
+147.Emiliania.huxleyi.virus.156.proteins
+INT_534	151.Emiliania.huxleyi.virus.202.proteins	147.Emiliania.huxleyi.virus.156.proteins
+149.Emiliania.huxleyi.virus.18.proteins
+INT_533	INT_534	149.Emiliania.huxleyi.virus.18.proteins
+INT_513	INT_514	INT_533
+INT_479	INT_480	INT_513
+UUJ180622.matabat2bin.206.proteins
+UUJ180410.matabat2bin.237.proteins
+UUJ180410.matabat2bin.83.proteins
+INT_540	UUJ180410.matabat2bin.237.proteins	UUJ180410.matabat2bin.83.proteins
+INT_538	UUJ180622.matabat2bin.206.proteins	INT_540
+INT_478	INT_479	INT_538
+037.Pandoravirus.quercus.proteins
+038.Pandoravirus.inopinatum.proteins
+INT_548	037.Pandoravirus.quercus.proteins	038.Pandoravirus.inopinatum.proteins
+039.Pandoravirus.salinus.proteins
+INT_547	INT_548	039.Pandoravirus.salinus.proteins
+040.Pandoravirus.dulcis.proteins
+INT_546	INT_547	040.Pandoravirus.dulcis.proteins
+036.Pandoravirus.neocaledonia.proteins
+035.Pandoravirus.macleodensis.proteins
+INT_553	036.Pandoravirus.neocaledonia.proteins	035.Pandoravirus.macleodensis.proteins
+INT_545	INT_546	INT_553
+041.Mollivirus.sibericum.isolate.P1084-T.proteins
+139.Mollivirus.sibericum.proteins
+INT_556	041.Mollivirus.sibericum.isolate.P1084-T.proteins	139.Mollivirus.sibericum.proteins
+INT_544	INT_545	INT_556
+UUJ171110.matabat2bin.283.decontaminated.proteins
+UUJ180809.matabat2bin.393.decontaminated.proteins
+INT_559	UUJ171110.matabat2bin.283.decontaminated.proteins	UUJ180809.matabat2bin.393.decontaminated.proteins
+INT_543	INT_544	INT_559
+INT_477	INT_478	INT_543
+UUJ180925.matabat2bin.199.proteins
+INT_476	INT_477	UUJ180925.matabat2bin.199.proteins
+UUJ180110.matabat2bin.249.proteins
+UUJ170630.matabat2bin.364.proteins
+INT_564	UUJ180110.matabat2bin.249.proteins	UUJ170630.matabat2bin.364.proteins
+UUM180827.matabat2bin.372.proteins
+UUJ180815.matabat2bin.444.proteins
+INT_567	UUM180827.matabat2bin.372.proteins	UUJ180815.matabat2bin.444.proteins
+INT_563	INT_564	INT_567
+INT_475	INT_476	INT_563
+INT_459	INT_460	INT_475
+UUJ180510.matabat2bin.332.proteins
+UUJ171113.matabat2bin.122.proteins
+UUJ180313.matabat2bin.34.decontaminated.proteins
+INT_576	UUJ171113.matabat2bin.122.proteins	UUJ180313.matabat2bin.34.decontaminated.proteins
+INT_574	UUJ180510.matabat2bin.332.proteins	INT_576
+UUJ170105.matabat2bin.355.proteins
+INT_573	INT_574	UUJ170105.matabat2bin.355.proteins
+UUJ180622.matabat2bin.335.decontaminated.proteins
+UUJ180802.matabat2bin.444.proteins
+UUJ180313.matabat2bin.81.proteins
+INT_582	UUJ180802.matabat2bin.444.proteins	UUJ180313.matabat2bin.81.proteins
+INT_580	UUJ180622.matabat2bin.335.decontaminated.proteins	INT_582
+INT_572	INT_573	INT_580
+UUJ170620.matabat2bin.143.proteins
+UUJ180622.matabat2bin.83.proteins
+UUJ170630.matabat2bin.40.proteins
+INT_590	UUJ180622.matabat2bin.83.proteins	UUJ170630.matabat2bin.40.proteins
+UUJ170818.matabat2bin.262.proteins
+INT_589	INT_590	UUJ170818.matabat2bin.262.proteins
+INT_587	UUJ170620.matabat2bin.143.proteins	INT_589
+UUJ170804.matabat2bin.38.proteins
+INT_586	INT_587	UUJ170804.matabat2bin.38.proteins
+UUJ180622.matabat2bin.2.proteins
+INT_585	INT_586	UUJ180622.matabat2bin.2.proteins
+INT_571	INT_572	INT_585
+UUJ170620.matabat2bin.224.decontaminated.proteins
+UUJ180809.matabat2bin.121.proteins
+UUJ170630.matabat2bin.435.proteins
+INT_599	UUJ180809.matabat2bin.121.proteins	UUJ170630.matabat2bin.435.proteins
+INT_597	UUJ170620.matabat2bin.224.decontaminated.proteins	INT_599
+055.Acanthamoeba.castellanii.medusavirus.proteins
+INT_596	INT_597	055.Acanthamoeba.castellanii.medusavirus.proteins
+INT_570	INT_571	INT_596
+INT_458	INT_459	INT_570
+UUJ180622.matabat2bin.97.decontaminated.proteins
+UUJ180809.matabat2bin.151.decontaminated.proteins
+INT_613	UUJ180622.matabat2bin.97.decontaminated.proteins	UUJ180809.matabat2bin.151.decontaminated.proteins
+UUJ180622.matabat2bin.400.decontaminated.proteins
+UUJ170412.matabat2bin.186.decontaminated.proteins
+INT_616	UUJ180622.matabat2bin.400.decontaminated.proteins	UUJ170412.matabat2bin.186.decontaminated.proteins
+INT_612	INT_613	INT_616
+UUJ180629.matabat2bin.22.decontaminated.proteins
+UUJ180622.matabat2bin.293.decontaminated.proteins
+INT_619	UUJ180629.matabat2bin.22.decontaminated.proteins	UUJ180622.matabat2bin.293.decontaminated.proteins
+INT_611	INT_612	INT_619
+UUJ180629.matabat2bin.158.decontaminated.proteins
+UUJ170726.matabat2bin.25.decontaminated.proteins
+UUJ180925.matabat2bin.270.decontaminated.proteins
+INT_624	UUJ170726.matabat2bin.25.decontaminated.proteins	UUJ180925.matabat2bin.270.decontaminated.proteins
+INT_622	UUJ180629.matabat2bin.158.decontaminated.proteins	INT_624
+INT_610	INT_611	INT_622
+UUJ180809.matabat2bin.65.decontaminated.proteins
+UUJ180528.matabat2bin.99.decontaminated.proteins
+INT_627	UUJ180809.matabat2bin.65.decontaminated.proteins	UUJ180528.matabat2bin.99.decontaminated.proteins
+INT_609	INT_610	INT_627
+UUJ180925.matabat2bin.47.decontaminated.proteins
+INT_608	INT_609	UUJ180925.matabat2bin.47.decontaminated.proteins
+UUJ170818.matabat2bin.295.decontaminated.proteins
+INT_607	INT_608	UUJ170818.matabat2bin.295.decontaminated.proteins
+UUJ180903.matabat2bin.400.decontaminated.proteins
+UUJ180815.matabat2bin.454.decontaminated.proteins
+UUJ171110.matabat2bin.66.decontaminated.proteins
+INT_637	UUJ180815.matabat2bin.454.decontaminated.proteins	UUJ171110.matabat2bin.66.decontaminated.proteins
+UUJ180903.matabat2bin.425.decontaminated.proteins
+INT_636	INT_637	UUJ180903.matabat2bin.425.decontaminated.proteins
+INT_634	UUJ180903.matabat2bin.400.decontaminated.proteins	INT_636
+UUJ171110.matabat2bin.275.decontaminated.proteins
+INT_633	INT_634	UUJ171110.matabat2bin.275.decontaminated.proteins
+UUJ171110.matabat2bin.162.decontaminated.proteins
+INT_632	INT_633	UUJ171110.matabat2bin.162.decontaminated.proteins
+INT_606	INT_607	INT_632
+UUJ180629.matabat2bin.277.decontaminated.proteins
+UUJ180410.matabat2bin.193.proteins
+INT_644	UUJ180629.matabat2bin.277.decontaminated.proteins	UUJ180410.matabat2bin.193.proteins
+UUJ180725.matabat2bin.59.proteins
+INT_643	INT_644	UUJ180725.matabat2bin.59.proteins
+INT_605	INT_606	INT_643
+030.Feldmannia.species.virus.proteins
+029.Ectocarpus.siliculosus.virus.1.proteins
+INT_648	030.Feldmannia.species.virus.proteins	029.Ectocarpus.siliculosus.virus.1.proteins
+INT_604	INT_605	INT_648
+UUJ180725.matabat2bin.319.proteins
+INT_603	INT_604	UUJ180725.matabat2bin.319.proteins
+INT_457	INT_458	INT_603
+UUM180827.matabat2bin.346.proteins
+UUJ180925.matabat2bin.262.proteins
+INT_664	UUM180827.matabat2bin.346.proteins	UUJ180925.matabat2bin.262.proteins
+UUJ170927.matabat2bin.23.decontaminated.proteins
+INT_663	INT_664	UUJ170927.matabat2bin.23.decontaminated.proteins
+UUJ180827.matabat2bin.26.proteins
+UUJ180802.matabat2bin.408.proteins
+UUJ180827.matabat2bin.369.decontaminated.proteins
+UUJ170626.matabat2bin.397.proteins
+UUJ170626.matabat2bin.30.proteins
+INT_675	UUJ170626.matabat2bin.397.proteins	UUJ170626.matabat2bin.30.proteins
+INT_673	UUJ180827.matabat2bin.369.decontaminated.proteins	INT_675
+INT_671	UUJ180802.matabat2bin.408.proteins	INT_673
+INT_669	UUJ180827.matabat2bin.26.proteins	INT_671
+UUJ180903.matabat2bin.211.decontaminated.proteins
+INT_668	INT_669	UUJ180903.matabat2bin.211.decontaminated.proteins
+INT_662	INT_663	INT_668
+UUJ170612.matabat2bin.267.proteins
+INT_661	INT_662	UUJ170612.matabat2bin.267.proteins
+UUJ180802.matabat2bin.413.proteins
+UUJ170804.matabat2bin.355.proteins
+INT_681	UUJ180802.matabat2bin.413.proteins	UUJ170804.matabat2bin.355.proteins
+UUJ171110.matabat2bin.303.proteins
+INT_680	INT_681	UUJ171110.matabat2bin.303.proteins
+INT_660	INT_661	INT_680
+UUJ170927.matabat2bin.13.proteins
+UUM180827.matabat2bin.136.proteins
+UUJ171110.matabat2bin.65.proteins
+UUJ170927.matabat2bin.180.proteins
+INT_701	UUJ171110.matabat2bin.65.proteins	UUJ170927.matabat2bin.180.proteins
+UUJ180718.matabat2bin.118.proteins
+INT_700	INT_701	UUJ180718.matabat2bin.118.proteins
+UUJ180313.matabat2bin.263.proteins
+INT_699	INT_700	UUJ180313.matabat2bin.263.proteins
+INT_697	UUM180827.matabat2bin.136.proteins	INT_699
+UUJ180629.matabat2bin.150.proteins
+UUJ170804.matabat2bin.17.proteins
+INT_706	UUJ180629.matabat2bin.150.proteins	UUJ170804.matabat2bin.17.proteins
+INT_696	INT_697	INT_706
+INT_694	UUJ170927.matabat2bin.13.proteins	INT_696
+UUJ170927.matabat2bin.225.proteins
+UUJ171110.matabat2bin.28.decontaminated.proteins
+INT_710	UUJ170927.matabat2bin.225.proteins	UUJ171110.matabat2bin.28.decontaminated.proteins
+UUJ180802.matabat2bin.2.proteins
+INT_709	INT_710	UUJ180802.matabat2bin.2.proteins
+INT_693	INT_694	INT_709
+UUJ170412.matabat2bin.361.decontaminated.proteins
+UUJ170721.matabat2bin.37.proteins
+INT_717	UUJ170412.matabat2bin.361.decontaminated.proteins	UUJ170721.matabat2bin.37.proteins
+UUJ180510.matabat2bin.441.decontaminated.proteins
+UUJ170412.matabat2bin.97.proteins
+UUJ170714.matabat2bin.136.proteins
+UUJ170501.matabat2bin.4.proteins
+INT_724	UUJ170714.matabat2bin.136.proteins	UUJ170501.matabat2bin.4.proteins
+INT_722	UUJ170412.matabat2bin.97.proteins	INT_724
+INT_720	UUJ180510.matabat2bin.441.decontaminated.proteins	INT_722
+INT_716	INT_717	INT_720
+UUJ170105.matabat2bin.241.proteins
+UUJ170306.matabat2bin.301.proteins
+INT_727	UUJ170105.matabat2bin.241.proteins	UUJ170306.matabat2bin.301.proteins
+INT_715	INT_716	INT_727
+UUJ170721.matabat2bin.231.proteins
+INT_714	INT_715	UUJ170721.matabat2bin.231.proteins
+INT_692	INT_693	INT_714
+UUJ180622.matabat2bin.281.proteins
+INT_691	INT_692	UUJ180622.matabat2bin.281.proteins
+UUJ170804.matabat2bin.57.proteins
+UUJ170927.matabat2bin.49.proteins
+INT_733	UUJ170804.matabat2bin.57.proteins	UUJ170927.matabat2bin.49.proteins
+UUJ180925.matabat2bin.11.proteins
+INT_732	INT_733	UUJ180925.matabat2bin.11.proteins
+INT_690	INT_691	INT_732
+UUJ180313.matabat2bin.206.decontaminated.proteins
+UUJ180809.matabat2bin.51.proteins
+INT_739	UUJ180313.matabat2bin.206.decontaminated.proteins	UUJ180809.matabat2bin.51.proteins
+UUM180827.matabat2bin.89.proteins
+UUJ170105.matabat2bin.277.proteins
+INT_743	UUM180827.matabat2bin.89.proteins	UUJ170105.matabat2bin.277.proteins
+UUF170621.matabat2bin.338.proteins
+INT_742	INT_743	UUF170621.matabat2bin.338.proteins
+INT_738	INT_739	INT_742
+UUJ170721.matabat2bin.56.proteins
+UUJ180528.matabat2bin.227.proteins
+UUJ180510.matabat2bin.404.proteins
+INT_749	UUJ180528.matabat2bin.227.proteins	UUJ180510.matabat2bin.404.proteins
+INT_747	UUJ170721.matabat2bin.56.proteins	INT_749
+INT_737	INT_738	INT_747
+INT_689	INT_690	INT_737
+UUJ180313.matabat2bin.162.proteins
+UUJ170630.matabat2bin.164.decontaminated.proteins
+UUJ170804.matabat2bin.141.decontaminated.proteins
+INT_754	UUJ170630.matabat2bin.164.decontaminated.proteins	UUJ170804.matabat2bin.141.decontaminated.proteins
+INT_752	UUJ180313.matabat2bin.162.proteins	INT_754
+INT_688	INT_689	INT_752
+UUJ180827.matabat2bin.379.proteins
+UUJ180510.matabat2bin.211.proteins
+INT_759	UUJ180827.matabat2bin.379.proteins	UUJ180510.matabat2bin.211.proteins
+UUF170620.matabat2bin.84.proteins
+INT_758	INT_759	UUF170620.matabat2bin.84.proteins
+UUJ180802.matabat2bin.78.decontaminated.proteins
+UUJ170726.matabat2bin.130.decontaminated.proteins
+UUJ170630.matabat2bin.139.proteins
+INT_767	UUJ170726.matabat2bin.130.decontaminated.proteins	UUJ170630.matabat2bin.139.proteins
+INT_765	UUJ180802.matabat2bin.78.decontaminated.proteins	INT_767
+UUJ171113.matabat2bin.300.decontaminated.proteins
+INT_764	INT_765	UUJ171113.matabat2bin.300.decontaminated.proteins
+UUJ180629.matabat2bin.86.proteins
+INT_763	INT_764	UUJ180629.matabat2bin.86.proteins
+INT_757	INT_758	INT_763
+INT_687	INT_688	INT_757
+UUJ170804.matabat2bin.338.proteins
+UUJ170620.matabat2bin.468.decontaminated.proteins
+INT_774	UUJ170804.matabat2bin.338.proteins	UUJ170620.matabat2bin.468.decontaminated.proteins
+UUJ180827.matabat2bin.5.proteins
+UUJ170612.matabat2bin.51.proteins
+INT_777	UUJ180827.matabat2bin.5.proteins	UUJ170612.matabat2bin.51.proteins
+INT_773	INT_774	INT_777
+UUJ171110.matabat2bin.176.proteins
+UUJ170818.matabat2bin.240.proteins
+INT_781	UUJ171110.matabat2bin.176.proteins	UUJ170818.matabat2bin.240.proteins
+UUJ170927.matabat2bin.65.proteins
+INT_780	INT_781	UUJ170927.matabat2bin.65.proteins
+INT_772	INT_773	INT_780
+INT_686	INT_687	INT_772
+UUJ180815.matabat2bin.47.proteins
+UUJ170726.matabat2bin.259.proteins
+INT_785	UUJ180815.matabat2bin.47.proteins	UUJ170726.matabat2bin.259.proteins
+INT_685	INT_686	INT_785
+INT_659	INT_660	INT_685
+UUJ180827.matabat2bin.367.proteins
+UUJ171110.matabat2bin.235.proteins
+INT_806	UUJ180827.matabat2bin.367.proteins	UUJ171110.matabat2bin.235.proteins
+UUJ170620.matabat2bin.409.proteins
+INT_805	INT_806	UUJ170620.matabat2bin.409.proteins
+UUJ180802.matabat2bin.220.proteins
+INT_804	INT_805	UUJ180802.matabat2bin.220.proteins
+UUJ171218.matabat2bin.339.proteins
+INT_803	INT_804	UUJ171218.matabat2bin.339.proteins
+UUJ170412.matabat2bin.355.proteins
+INT_802	INT_803	UUJ170412.matabat2bin.355.proteins
+UUJ170306.matabat2bin.207.proteins
+UUJ180313.matabat2bin.195.proteins
+INT_813	UUJ170306.matabat2bin.207.proteins	UUJ180313.matabat2bin.195.proteins
+INT_801	INT_802	INT_813
+UUJ180622.matabat2bin.283.proteins
+UUJ180802.matabat2bin.68.proteins
+INT_816	UUJ180622.matabat2bin.283.proteins	UUJ180802.matabat2bin.68.proteins
+INT_800	INT_801	INT_816
+UUJ170818.matabat2bin.266.proteins
+INT_799	INT_800	UUJ170818.matabat2bin.266.proteins
+UUJ170105.matabat2bin.21.proteins
+UUJ170804.matabat2bin.12.proteins
+INT_820	UUJ170105.matabat2bin.21.proteins	UUJ170804.matabat2bin.12.proteins
+INT_798	INT_799	INT_820
+UUJ170818.matabat2bin.161.proteins
+UUJ171113.matabat2bin.279.proteins
+INT_824	UUJ170818.matabat2bin.161.proteins	UUJ171113.matabat2bin.279.proteins
+UUJ170105.matabat2bin.86.proteins
+INT_823	INT_824	UUJ170105.matabat2bin.86.proteins
+INT_797	INT_798	INT_823
+UUJ170306.matabat2bin.255.proteins
+UUJ180827.matabat2bin.247.proteins
+INT_830	UUJ170306.matabat2bin.255.proteins	UUJ180827.matabat2bin.247.proteins
+UUJ170306.matabat2bin.186.proteins
+INT_829	INT_830	UUJ170306.matabat2bin.186.proteins
+UUJ171218.matabat2bin.316.proteins
+INT_828	INT_829	UUJ171218.matabat2bin.316.proteins
+INT_796	INT_797	INT_828
+UUJ170721.matabat2bin.11.proteins
+UUJ180313.matabat2bin.20.proteins
+UUJ180802.matabat2bin.15.proteins
+INT_842	UUJ180313.matabat2bin.20.proteins	UUJ180802.matabat2bin.15.proteins
+INT_840	UUJ170721.matabat2bin.11.proteins	INT_842
+UUJ180802.matabat2bin.75.proteins
+UUJ180313.matabat2bin.133.proteins
+INT_845	UUJ180802.matabat2bin.75.proteins	UUJ180313.matabat2bin.133.proteins
+INT_839	INT_840	INT_845
+UUJ180629.matabat2bin.116.proteins
+UUJ180313.matabat2bin.30.proteins
+INT_849	UUJ180629.matabat2bin.116.proteins	UUJ180313.matabat2bin.30.proteins
+UUJ180827.matabat2bin.402.proteins
+INT_848	INT_849	UUJ180827.matabat2bin.402.proteins
+INT_838	INT_839	INT_848
+UUJ180925.matabat2bin.358.proteins
+INT_837	INT_838	UUJ180925.matabat2bin.358.proteins
+UUM180827.matabat2bin.98.proteins
+UUJ170818.matabat2bin.198.proteins
+INT_857	UUM180827.matabat2bin.98.proteins	UUJ170818.matabat2bin.198.proteins
+UUJ180827.matabat2bin.46.proteins
+INT_856	INT_857	UUJ180827.matabat2bin.46.proteins
+UUJ180827.matabat2bin.56.proteins
+UUJ170706.matabat2bin.145.proteins
+UUJ170804.matabat2bin.400.proteins
+INT_864	UUJ170706.matabat2bin.145.proteins	UUJ170804.matabat2bin.400.proteins
+UUJ180802.matabat2bin.182.proteins
+INT_863	INT_864	UUJ180802.matabat2bin.182.proteins
+INT_861	UUJ180827.matabat2bin.56.proteins	INT_863
+INT_855	INT_856	INT_861
+UUJ180827.matabat2bin.362.proteins
+UUJ170927.matabat2bin.80.proteins
+UUJ170714.matabat2bin.139.proteins
+UUJ170927.matabat2bin.238.proteins
+INT_873	UUJ170714.matabat2bin.139.proteins	UUJ170927.matabat2bin.238.proteins
+INT_871	UUJ170927.matabat2bin.80.proteins	INT_873
+INT_869	UUJ180827.matabat2bin.362.proteins	INT_871
+UUJ170630.matabat2bin.434.proteins
+INT_868	INT_869	UUJ170630.matabat2bin.434.proteins
+INT_854	INT_855	INT_868
+INT_836	INT_837	INT_854
+UUJ170412.matabat2bin.156.proteins
+UUJ180313.matabat2bin.297.proteins
+INT_879	UUJ170412.matabat2bin.156.proteins	UUJ180313.matabat2bin.297.proteins
+UUJ180219.matabat2bin.173.proteins
+UUJ180815.matabat2bin.300.proteins
+UUJ180802.matabat2bin.416.proteins
+INT_884	UUJ180815.matabat2bin.300.proteins	UUJ180802.matabat2bin.416.proteins
+INT_882	UUJ180219.matabat2bin.173.proteins	INT_884
+INT_878	INT_879	INT_882
+UUJ180410.matabat2bin.74.proteins
+UUJ180410.matabat2bin.369.proteins
+UUJ180718.matabat2bin.269.proteins
+INT_891	UUJ180410.matabat2bin.369.proteins	UUJ180718.matabat2bin.269.proteins
+INT_889	UUJ180410.matabat2bin.74.proteins	INT_891
+UUJ180410.matabat2bin.51.proteins
+UUJ180925.matabat2bin.7.proteins
+INT_894	UUJ180410.matabat2bin.51.proteins	UUJ180925.matabat2bin.7.proteins
+INT_888	INT_889	INT_894
+UUJ170612.matabat2bin.373.proteins
+INT_887	INT_888	UUJ170612.matabat2bin.373.proteins
+INT_877	INT_878	INT_887
+INT_835	INT_836	INT_877
+INT_795	INT_796	INT_835
+UUJ180925.matabat2bin.45.proteins
+UUJ170620.matabat2bin.445.proteins
+UUJ180110.matabat2bin.5.proteins
+INT_916	UUJ170620.matabat2bin.445.proteins	UUJ180110.matabat2bin.5.proteins
+INT_914	UUJ180925.matabat2bin.45.proteins	INT_916
+UUJ180802.matabat2bin.432.proteins
+UUJ180528.matabat2bin.13.proteins
+INT_919	UUJ180802.matabat2bin.432.proteins	UUJ180528.matabat2bin.13.proteins
+INT_913	INT_914	INT_919
+UUJ170714.matabat2bin.47.proteins
+UUJ170714.matabat2bin.14.proteins
+INT_926	UUJ170714.matabat2bin.47.proteins	UUJ170714.matabat2bin.14.proteins
+UUJ170630.matabat2bin.379.proteins
+UUJ170105.matabat2bin.313.proteins
+UUJ180410.matabat2bin.60.proteins
+INT_934	UUJ170105.matabat2bin.313.proteins	UUJ180410.matabat2bin.60.proteins
+INT_932	UUJ170630.matabat2bin.379.proteins	INT_934
+UUJ180219.matabat2bin.4.proteins
+INT_931	INT_932	UUJ180219.matabat2bin.4.proteins
+UUJ170927.matabat2bin.330.proteins
+INT_930	INT_931	UUJ170927.matabat2bin.330.proteins
+UUJ180528.matabat2bin.269.proteins
+INT_929	INT_930	UUJ180528.matabat2bin.269.proteins
+INT_925	INT_926	INT_929
+UUJ170804.matabat2bin.93.proteins
+UUJ170620.matabat2bin.253.proteins
+INT_940	UUJ170804.matabat2bin.93.proteins	UUJ170620.matabat2bin.253.proteins
+INT_924	INT_925	INT_940
+UUJ170804.matabat2bin.374.proteins
+INT_923	INT_924	UUJ170804.matabat2bin.374.proteins
+UUJ180802.matabat2bin.328.proteins
+INT_922	INT_923	UUJ180802.matabat2bin.328.proteins
+INT_912	INT_913	INT_922
+UUJ170804.matabat2bin.140.proteins
+006.Phaeocystis.globosa.virus.strain.16T.proteins
+INT_945	UUJ170804.matabat2bin.140.proteins	006.Phaeocystis.globosa.virus.strain.16T.proteins
+INT_911	INT_912	INT_945
+UUJ170523.matabat2bin.127.proteins
+INT_910	INT_911	UUJ170523.matabat2bin.127.proteins
+UUJ180219.matabat2bin.166.proteins
+UUJ180219.matabat2bin.26.proteins
+UUJ170105.matabat2bin.357.proteins
+INT_952	UUJ180219.matabat2bin.26.proteins	UUJ170105.matabat2bin.357.proteins
+INT_950	UUJ180219.matabat2bin.166.proteins	INT_952
+UUF170621.matabat2bin.71.proteins
+UUJ180725.matabat2bin.40.proteins
+INT_957	UUF170621.matabat2bin.71.proteins	UUJ180725.matabat2bin.40.proteins
+UUJ170306.matabat2bin.76.proteins
+INT_956	INT_957	UUJ170306.matabat2bin.76.proteins
+UUJ170630.matabat2bin.332.proteins
+UUJ170501.matabat2bin.164.proteins
+INT_961	UUJ170630.matabat2bin.332.proteins	UUJ170501.matabat2bin.164.proteins
+INT_955	INT_956	INT_961
+INT_949	INT_950	INT_955
+INT_909	INT_910	INT_949
+UUJ171113.matabat2bin.184.decontaminated.proteins
+UUJ171113.matabat2bin.385.proteins
+UUJ180622.matabat2bin.302.proteins
+INT_969	UUJ171113.matabat2bin.385.proteins	UUJ180622.matabat2bin.302.proteins
+INT_967	UUJ171113.matabat2bin.184.decontaminated.proteins	INT_969
+UUJ170620.matabat2bin.410.proteins
+INT_966	INT_967	UUJ170620.matabat2bin.410.proteins
+UUJ170630.matabat2bin.2.proteins
+INT_965	INT_966	UUJ170630.matabat2bin.2.proteins
+UUJ170721.matabat2bin.382.proteins
+INT_964	INT_965	UUJ170721.matabat2bin.382.proteins
+INT_908	INT_909	INT_964
+UUJ180510.matabat2bin.459.proteins
+UUM180827.matabat2bin.42.proteins
+INT_982	UUJ180510.matabat2bin.459.proteins	UUM180827.matabat2bin.42.proteins
+UUJ180925.matabat2bin.132.proteins
+INT_981	INT_982	UUJ180925.matabat2bin.132.proteins
+UUJ170818.matabat2bin.106.proteins
+INT_980	INT_981	UUJ170818.matabat2bin.106.proteins
+UUJ170927.matabat2bin.107.proteins
+INT_979	INT_980	UUJ170927.matabat2bin.107.proteins
+UUJ170818.matabat2bin.329.proteins
+UUJ170615.matabat2bin.363.proteins
+INT_988	UUJ170818.matabat2bin.329.proteins	UUJ170615.matabat2bin.363.proteins
+INT_978	INT_979	INT_988
+UUJ170306.matabat2bin.253.proteins
+UUJ170620.matabat2bin.256.proteins
+INT_991	UUJ170306.matabat2bin.253.proteins	UUJ170620.matabat2bin.256.proteins
+INT_977	INT_978	INT_991
+UUJ170927.matabat2bin.278.proteins
+INT_976	INT_977	UUJ170927.matabat2bin.278.proteins
+UUJ171113.matabat2bin.49.proteins
+UUJ170615.matabat2bin.227.proteins
+INT_995	UUJ171113.matabat2bin.49.proteins	UUJ170615.matabat2bin.227.proteins
+INT_975	INT_976	INT_995
+INT_907	INT_908	INT_975
+UUJ170927.matabat2bin.297.proteins
+UUJ170523.matabat2bin.324.proteins
+INT_1001	UUJ170927.matabat2bin.297.proteins	UUJ170523.matabat2bin.324.proteins
+UUJ180510.matabat2bin.432.proteins
+INT_1000	INT_1001	UUJ180510.matabat2bin.432.proteins
+UUJ171113.matabat2bin.363.proteins
+UUJ180815.matabat2bin.126.proteins
+INT_1005	UUJ171113.matabat2bin.363.proteins	UUJ180815.matabat2bin.126.proteins
+INT_999	INT_1000	INT_1005
+UUJ180718.matabat2bin.18.proteins
+INT_998	INT_999	UUJ180718.matabat2bin.18.proteins
+INT_906	INT_907	INT_998
+UUJ171027.matabat2bin.231.proteins
+UUJ180725.matabat2bin.132.proteins
+INT_1014	UUJ171027.matabat2bin.231.proteins	UUJ180725.matabat2bin.132.proteins
+UUJ170721.matabat2bin.142.proteins
+INT_1013	INT_1014	UUJ170721.matabat2bin.142.proteins
+UUF170621.matabat2bin.138.proteins
+UUJ180718.matabat2bin.315.proteins
+INT_1019	UUF170621.matabat2bin.138.proteins	UUJ180718.matabat2bin.315.proteins
+UUJ171110.matabat2bin.164.proteins
+INT_1018	INT_1019	UUJ171110.matabat2bin.164.proteins
+INT_1012	INT_1013	INT_1018
+UUJ170501.matabat2bin.293.proteins
+UUJ180219.matabat2bin.193.proteins
+INT_1023	UUJ170501.matabat2bin.293.proteins	UUJ180219.matabat2bin.193.proteins
+INT_1011	INT_1012	INT_1023
+UUJ170623.matabat2bin.375.proteins
+INT_1010	INT_1011	UUJ170623.matabat2bin.375.proteins
+UUJ180313.matabat2bin.6.proteins
+UUJ170706.matabat2bin.250.proteins
+UUJ170523.matabat2bin.342.proteins
+INT_1036	UUJ170706.matabat2bin.250.proteins	UUJ170523.matabat2bin.342.proteins
+007.Chrysochromulina.ericina.virus.isolate.CeV-01B.proteins
+UUJ180410.matabat2bin.213.proteins
+INT_1039	007.Chrysochromulina.ericina.virus.isolate.CeV-01B.proteins	UUJ180410.matabat2bin.213.proteins
+INT_1035	INT_1036	INT_1039
+UUJ170927.matabat2bin.32.proteins
+INT_1034	INT_1035	UUJ170927.matabat2bin.32.proteins
+INT_1032	UUJ180313.matabat2bin.6.proteins	INT_1034
+UUJ170818.matabat2bin.199.proteins
+INT_1031	INT_1032	UUJ170818.matabat2bin.199.proteins
+UUJ170804.matabat2bin.377.proteins
+INT_1030	INT_1031	UUJ170804.matabat2bin.377.proteins
+UUJ180815.matabat2bin.23.proteins
+UUJ170927.matabat2bin.44.proteins
+INT_1046	UUJ180815.matabat2bin.23.proteins	UUJ170927.matabat2bin.44.proteins
+UUJ170927.matabat2bin.317.proteins
+INT_1045	INT_1046	UUJ170927.matabat2bin.317.proteins
+INT_1029	INT_1030	INT_1045
+UUJ170927.matabat2bin.310.proteins
+UUJ180815.matabat2bin.427.proteins
+INT_1050	UUJ170927.matabat2bin.310.proteins	UUJ180815.matabat2bin.427.proteins
+INT_1028	INT_1029	INT_1050
+UUJ170523.matabat2bin.222.proteins
+UUJ171110.matabat2bin.254.proteins
+INT_1053	UUJ170523.matabat2bin.222.proteins	UUJ171110.matabat2bin.254.proteins
+INT_1027	INT_1028	INT_1053
+INT_1009	INT_1010	INT_1027
+INT_905	INT_906	INT_1009
+UUJ180313.matabat2bin.271.proteins
+UUJ180219.matabat2bin.178.proteins
+INT_1060	UUJ180313.matabat2bin.271.proteins	UUJ180219.matabat2bin.178.proteins
+UUJ180110.matabat2bin.257.proteins
+INT_1059	INT_1060	UUJ180110.matabat2bin.257.proteins
+UUJ170626.matabat2bin.294.proteins
+UUJ180110.matabat2bin.255.decontaminated.proteins
+INT_1064	UUJ170626.matabat2bin.294.proteins	UUJ180110.matabat2bin.255.decontaminated.proteins
+INT_1058	INT_1059	INT_1064
+UUJ170501.matabat2bin.30.proteins
+UUJ180313.matabat2bin.157.proteins
+INT_1069	UUJ170501.matabat2bin.30.proteins	UUJ180313.matabat2bin.157.proteins
+UUJ180313.matabat2bin.259.proteins
+UUJ171113.matabat2bin.53.proteins
+INT_1075	UUJ180313.matabat2bin.259.proteins	UUJ171113.matabat2bin.53.proteins
+UUJ170630.matabat2bin.388.proteins
+INT_1074	INT_1075	UUJ170630.matabat2bin.388.proteins
+UUJ171218.matabat2bin.130.proteins
+INT_1073	INT_1074	UUJ171218.matabat2bin.130.proteins
+UUJ171218.matabat2bin.235.proteins
+INT_1072	INT_1073	UUJ171218.matabat2bin.235.proteins
+INT_1068	INT_1069	INT_1072
+UUJ170626.matabat2bin.14.proteins
+INT_1067	INT_1068	UUJ170626.matabat2bin.14.proteins
+INT_1057	INT_1058	INT_1067
+UUJ170105.matabat2bin.41.proteins
+UUJ170523.matabat2bin.292.proteins
+UUJ180313.matabat2bin.303.proteins
+INT_1085	UUJ170523.matabat2bin.292.proteins	UUJ180313.matabat2bin.303.proteins
+INT_1083	UUJ170105.matabat2bin.41.proteins	INT_1085
+UUJ170412.matabat2bin.295.proteins
+UUJ180313.matabat2bin.294.proteins
+UUJ170306.matabat2bin.308.proteins
+INT_1093	UUJ180313.matabat2bin.294.proteins	UUJ170306.matabat2bin.308.proteins
+UUJ180410.matabat2bin.174.proteins
+INT_1092	INT_1093	UUJ180410.matabat2bin.174.proteins
+INT_1090	UUJ170412.matabat2bin.295.proteins	INT_1092
+UUJ171113.matabat2bin.120.proteins
+INT_1089	INT_1090	UUJ171113.matabat2bin.120.proteins
+UUJ171113.matabat2bin.301.proteins
+INT_1088	INT_1089	UUJ171113.matabat2bin.301.proteins
+INT_1082	INT_1083	INT_1088
+INT_1056	INT_1057	INT_1082
+INT_904	INT_905	INT_1056
+UUJ180802.matabat2bin.364.proteins
+UUJ180925.matabat2bin.66.proteins
+INT_1105	UUJ180802.matabat2bin.364.proteins	UUJ180925.matabat2bin.66.proteins
+UUM180827.matabat2bin.184.proteins
+INT_1104	INT_1105	UUM180827.matabat2bin.184.proteins
+UUJ170804.matabat2bin.129.proteins
+INT_1103	INT_1104	UUJ170804.matabat2bin.129.proteins
+UUJ170714.matabat2bin.363.proteins
+UUJ170630.matabat2bin.34.proteins
+INT_1110	UUJ170714.matabat2bin.363.proteins	UUJ170630.matabat2bin.34.proteins
+INT_1102	INT_1103	INT_1110
+UUJ180827.matabat2bin.174.proteins
+INT_1101	INT_1102	UUJ180827.matabat2bin.174.proteins
+UUF170620.matabat2bin.310.proteins
+INT_1100	INT_1101	UUF170620.matabat2bin.310.proteins
+UUJ170927.matabat2bin.373.decontaminated.proteins
+UUM171110.matabat2bin.93.proteins
+UUJ180110.matabat2bin.277.proteins
+INT_1118	UUM171110.matabat2bin.93.proteins	UUJ180110.matabat2bin.277.proteins
+UUJ180802.matabat2bin.411.proteins
+INT_1117	INT_1118	UUJ180802.matabat2bin.411.proteins
+INT_1115	UUJ170927.matabat2bin.373.decontaminated.proteins	INT_1117
+INT_1099	INT_1100	INT_1115
+INT_903	INT_904	INT_1099
+UUJ170105.matabat2bin.233.proteins
+UUJ180802.matabat2bin.356.proteins
+INT_1129	UUJ170105.matabat2bin.233.proteins	UUJ180802.matabat2bin.356.proteins
+UUJ171218.matabat2bin.24.proteins
+INT_1128	INT_1129	UUJ171218.matabat2bin.24.proteins
+UUJ180510.matabat2bin.34.proteins
+INT_1127	INT_1128	UUJ180510.matabat2bin.34.proteins
+UUJ170612.matabat2bin.20.proteins
+UUJ180802.matabat2bin.96.proteins
+UUJ180827.matabat2bin.83.proteins
+INT_1136	UUJ180802.matabat2bin.96.proteins	UUJ180827.matabat2bin.83.proteins
+INT_1134	UUJ170612.matabat2bin.20.proteins	INT_1136
+INT_1126	INT_1127	INT_1134
+UUJ170501.matabat2bin.287.proteins
+INT_1125	INT_1126	UUJ170501.matabat2bin.287.proteins
+UUJ180313.matabat2bin.284.proteins
+INT_1124	INT_1125	UUJ180313.matabat2bin.284.proteins
+UUJ180313.matabat2bin.250.proteins
+UUJ170714.matabat2bin.95.proteins
+INT_1142	UUJ180313.matabat2bin.250.proteins	UUJ170714.matabat2bin.95.proteins
+UUJ170523.matabat2bin.13.proteins
+INT_1141	INT_1142	UUJ170523.matabat2bin.13.proteins
+INT_1123	INT_1124	INT_1141
+UUF170621.matabat2bin.43.proteins
+INT_1122	INT_1123	UUF170621.matabat2bin.43.proteins
+INT_902	INT_903	INT_1122
+UUJ170412.matabat2bin.233.proteins
+UUJ170714.matabat2bin.356.proteins
+INT_1152	UUJ170412.matabat2bin.233.proteins	UUJ170714.matabat2bin.356.proteins
+UUJ170623.matabat2bin.61.proteins
+UUJ180110.matabat2bin.254.proteins
+INT_1156	UUJ170623.matabat2bin.61.proteins	UUJ180110.matabat2bin.254.proteins
+UUJ180410.matabat2bin.323.proteins
+INT_1155	INT_1156	UUJ180410.matabat2bin.323.proteins
+INT_1151	INT_1152	INT_1155
+UUJ180925.matabat2bin.205.proteins
+UUJ180110.matabat2bin.14.proteins
+INT_1163	UUJ180925.matabat2bin.205.proteins	UUJ180110.matabat2bin.14.proteins
+UUJ170612.matabat2bin.81.proteins
+INT_1162	INT_1163	UUJ170612.matabat2bin.81.proteins
+UUJ180815.matabat2bin.12.proteins
+UUJ180622.matabat2bin.395.decontaminated.proteins
+INT_1167	UUJ180815.matabat2bin.12.proteins	UUJ180622.matabat2bin.395.decontaminated.proteins
+INT_1161	INT_1162	INT_1167
+UUM180827.matabat2bin.278.proteins
+INT_1160	INT_1161	UUM180827.matabat2bin.278.proteins
+INT_1150	INT_1151	INT_1160
+UUJ170501.matabat2bin.337.proteins
+UUJ170412.matabat2bin.288.decontaminated.proteins
+INT_1175	UUJ170501.matabat2bin.337.proteins	UUJ170412.matabat2bin.288.decontaminated.proteins
+UUJ180802.matabat2bin.289.proteins
+INT_1174	INT_1175	UUJ180802.matabat2bin.289.proteins
+UUJ180802.matabat2bin.76.proteins
+INT_1173	INT_1174	UUJ180802.matabat2bin.76.proteins
+UUF170620.matabat2bin.4.proteins
+UUJ170105.matabat2bin.179.proteins
+INT_1180	UUF170620.matabat2bin.4.proteins	UUJ170105.matabat2bin.179.proteins
+INT_1172	INT_1173	INT_1180
+UUJ171027.matabat2bin.190.proteins
+UUJ170623.matabat2bin.35.proteins
+INT_1183	UUJ171027.matabat2bin.190.proteins	UUJ170623.matabat2bin.35.proteins
+INT_1171	INT_1172	INT_1183
+INT_1149	INT_1150	INT_1171
+UUJ170726.matabat2bin.78.proteins
+UUJ180510.matabat2bin.402.proteins
+UUJ170105.matabat2bin.258.proteins
+INT_1195	UUJ180510.matabat2bin.402.proteins	UUJ170105.matabat2bin.258.proteins
+INT_1193	UUJ170726.matabat2bin.78.proteins	INT_1195
+UUJ180313.matabat2bin.65.proteins
+UUJ170626.matabat2bin.324.proteins
+INT_1200	UUJ180313.matabat2bin.65.proteins	UUJ170626.matabat2bin.324.proteins
+UUJ170412.matabat2bin.55.proteins
+UUJ180718.matabat2bin.401.proteins
+INT_1204	UUJ170412.matabat2bin.55.proteins	UUJ180718.matabat2bin.401.proteins
+UUJ180510.matabat2bin.293.proteins
+INT_1203	INT_1204	UUJ180510.matabat2bin.293.proteins
+INT_1199	INT_1200	INT_1203
+UUJ171113.matabat2bin.133.proteins
+INT_1198	INT_1199	UUJ171113.matabat2bin.133.proteins
+INT_1192	INT_1193	INT_1198
+UUJ180110.matabat2bin.103.proteins
+INT_1191	INT_1192	UUJ180110.matabat2bin.103.proteins
+UUJ180903.matabat2bin.262.proteins
+UUJ180718.matabat2bin.407.proteins
+INT_1212	UUJ180903.matabat2bin.262.proteins	UUJ180718.matabat2bin.407.proteins
+UUJ170412.matabat2bin.59.proteins
+UUJ170306.matabat2bin.163.proteins
+INT_1215	UUJ170412.matabat2bin.59.proteins	UUJ170306.matabat2bin.163.proteins
+INT_1211	INT_1212	INT_1215
+UUJ170721.matabat2bin.184.decontaminated.proteins
+UUJ171113.matabat2bin.245.proteins
+INT_1218	UUJ170721.matabat2bin.184.decontaminated.proteins	UUJ171113.matabat2bin.245.proteins
+INT_1210	INT_1211	INT_1218
+INT_1190	INT_1191	INT_1210
+UUJ171113.matabat2bin.44.proteins
+UUJ170412.matabat2bin.314.proteins
+INT_1221	UUJ171113.matabat2bin.44.proteins	UUJ170412.matabat2bin.314.proteins
+INT_1189	INT_1190	INT_1221
+UUJ180718.matabat2bin.172.proteins
+UUJ170105.matabat2bin.164.proteins
+UUJ170726.matabat2bin.91.proteins
+INT_1230	UUJ170105.matabat2bin.164.proteins	UUJ170726.matabat2bin.91.proteins
+INT_1228	UUJ180718.matabat2bin.172.proteins	INT_1230
+UUJ171027.matabat2bin.6.proteins
+UUJ180622.matabat2bin.277.proteins
+INT_1233	UUJ171027.matabat2bin.6.proteins	UUJ180622.matabat2bin.277.proteins
+INT_1227	INT_1228	INT_1233
+UUJ180903.matabat2bin.488.decontaminated.proteins
+INT_1226	INT_1227	UUJ180903.matabat2bin.488.decontaminated.proteins
+UUJ180718.matabat2bin.338.proteins
+UUJ180622.matabat2bin.417.proteins
+INT_1237	UUJ180718.matabat2bin.338.proteins	UUJ180622.matabat2bin.417.proteins
+INT_1225	INT_1226	INT_1237
+UUJ180219.matabat2bin.37.proteins
+UUJ170306.matabat2bin.189.proteins
+INT_1241	UUJ180219.matabat2bin.37.proteins	UUJ170306.matabat2bin.189.proteins
+UUJ170105.matabat2bin.370.proteins
+INT_1240	INT_1241	UUJ170105.matabat2bin.370.proteins
+INT_1224	INT_1225	INT_1240
+INT_1188	INT_1189	INT_1224
+UUJ170612.matabat2bin.365.proteins
+UUJ180725.matabat2bin.320.proteins
+UUJ170105.matabat2bin.28.proteins
+UUJ180802.matabat2bin.341.proteins
+INT_1255	UUJ170105.matabat2bin.28.proteins	UUJ180802.matabat2bin.341.proteins
+UUJ170412.matabat2bin.301.proteins
+INT_1254	INT_1255	UUJ170412.matabat2bin.301.proteins
+INT_1252	UUJ180725.matabat2bin.320.proteins	INT_1254
+INT_1250	UUJ170612.matabat2bin.365.proteins	INT_1252
+UUM180827.matabat2bin.34.proteins
+UUJ170412.matabat2bin.359.proteins
+INT_1260	UUM180827.matabat2bin.34.proteins	UUJ170412.matabat2bin.359.proteins
+UUJ170523.matabat2bin.10.proteins
+UUJ180827.matabat2bin.139.proteins
+INT_1263	UUJ170523.matabat2bin.10.proteins	UUJ180827.matabat2bin.139.proteins
+INT_1259	INT_1260	INT_1263
+INT_1249	INT_1250	INT_1259
+UUJ171027.matabat2bin.91.decontaminated.proteins
+UUJ170523.matabat2bin.333.proteins
+INT_1267	UUJ171027.matabat2bin.91.decontaminated.proteins	UUJ170523.matabat2bin.333.proteins
+UUJ180510.matabat2bin.415.proteins
+INT_1266	INT_1267	UUJ180510.matabat2bin.415.proteins
+INT_1248	INT_1249	INT_1266
+UUJ180510.matabat2bin.3.decontaminated.proteins
+UUJ170306.matabat2bin.26.proteins
+INT_1277	UUJ180510.matabat2bin.3.decontaminated.proteins	UUJ170306.matabat2bin.26.proteins
+UUJ180925.matabat2bin.8.proteins
+UUJ170501.matabat2bin.310.proteins
+UUJ180219.matabat2bin.92.proteins
+INT_1283	UUJ170501.matabat2bin.310.proteins	UUJ180219.matabat2bin.92.proteins
+INT_1281	UUJ180925.matabat2bin.8.proteins	INT_1283
+UUJ180827.matabat2bin.434.proteins
+INT_1280	INT_1281	UUJ180827.matabat2bin.434.proteins
+INT_1276	INT_1277	INT_1280
+UUJ180815.matabat2bin.54.decontaminated.proteins
+INT_1275	INT_1276	UUJ180815.matabat2bin.54.decontaminated.proteins
+UUJ170306.matabat2bin.289.proteins
+UUJ180110.matabat2bin.35.proteins
+INT_1290	UUJ170306.matabat2bin.289.proteins	UUJ180110.matabat2bin.35.proteins
+UUJ170105.matabat2bin.288.proteins
+UUJ170412.matabat2bin.62.proteins
+UUJ170721.matabat2bin.352.proteins
+INT_1295	UUJ170412.matabat2bin.62.proteins	UUJ170721.matabat2bin.352.proteins
+INT_1293	UUJ170105.matabat2bin.288.proteins	INT_1295
+INT_1289	INT_1290	INT_1293
+UUJ180313.matabat2bin.266.proteins
+INT_1288	INT_1289	UUJ180313.matabat2bin.266.proteins
+INT_1274	INT_1275	INT_1288
+UUJ170306.matabat2bin.238.proteins
+UUJ170105.matabat2bin.19.proteins
+INT_1302	UUJ170306.matabat2bin.238.proteins	UUJ170105.matabat2bin.19.proteins
+UUJ170714.matabat2bin.302.proteins
+INT_1301	INT_1302	UUJ170714.matabat2bin.302.proteins
+UUJ180827.matabat2bin.254.proteins
+INT_1300	INT_1301	UUJ180827.matabat2bin.254.proteins
+UUJ180903.matabat2bin.58.proteins
+UUJ180802.matabat2bin.343.proteins
+INT_1310	UUJ180903.matabat2bin.58.proteins	UUJ180802.matabat2bin.343.proteins
+UUJ180925.matabat2bin.382.proteins
+INT_1309	INT_1310	UUJ180925.matabat2bin.382.proteins
+UUM171110.matabat2bin.293.decontaminated.proteins
+UUJ180410.matabat2bin.17.proteins
+INT_1317	UUM171110.matabat2bin.293.decontaminated.proteins	UUJ180410.matabat2bin.17.proteins
+UUJ180110.matabat2bin.31.proteins
+UUM171110.matabat2bin.176.proteins
+UUM180827.matabat2bin.126.proteins
+INT_1323	UUM171110.matabat2bin.176.proteins	UUM180827.matabat2bin.126.proteins
+INT_1321	UUJ180110.matabat2bin.31.proteins	INT_1323
+UUJ180815.matabat2bin.310.proteins
+INT_1320	INT_1321	UUJ180815.matabat2bin.310.proteins
+INT_1316	INT_1317	INT_1320
+UUJ180510.matabat2bin.443.proteins
+INT_1315	INT_1316	UUJ180510.matabat2bin.443.proteins
+UUJ180110.matabat2bin.227.proteins
+INT_1314	INT_1315	UUJ180110.matabat2bin.227.proteins
+INT_1308	INT_1309	INT_1314
+UUJ171027.matabat2bin.217.proteins
+UUJ170714.matabat2bin.340.proteins
+INT_1329	UUJ171027.matabat2bin.217.proteins	UUJ170714.matabat2bin.340.proteins
+INT_1307	INT_1308	INT_1329
+INT_1299	INT_1300	INT_1307
+INT_1273	INT_1274	INT_1299
+UUJ170105.matabat2bin.20.proteins
+UUM171110.matabat2bin.250.proteins
+INT_1332	UUJ170105.matabat2bin.20.proteins	UUM171110.matabat2bin.250.proteins
+INT_1272	INT_1273	INT_1332
+UUM180827.matabat2bin.236.proteins
+UUJ180219.matabat2bin.99.proteins
+INT_1338	UUM180827.matabat2bin.236.proteins	UUJ180219.matabat2bin.99.proteins
+UUJ180410.matabat2bin.359.proteins
+INT_1337	INT_1338	UUJ180410.matabat2bin.359.proteins
+UUJ180410.matabat2bin.355.proteins
+UUM180827.matabat2bin.28.proteins
+INT_1342	UUJ180410.matabat2bin.355.proteins	UUM180827.matabat2bin.28.proteins
+INT_1336	INT_1337	INT_1342
+UUJ180827.matabat2bin.279.proteins
+UUJ180410.matabat2bin.330.proteins
+UUJ180802.matabat2bin.163.proteins
+INT_1347	UUJ180410.matabat2bin.330.proteins	UUJ180802.matabat2bin.163.proteins
+INT_1345	UUJ180827.matabat2bin.279.proteins	INT_1347
+INT_1335	INT_1336	INT_1345
+INT_1271	INT_1272	INT_1335
+INT_1247	INT_1248	INT_1271
+UUJ170105.matabat2bin.199.proteins
+UUJ180802.matabat2bin.313.proteins
+INT_1351	UUJ170105.matabat2bin.199.proteins	UUJ180802.matabat2bin.313.proteins
+UUM180827.matabat2bin.234.proteins
+INT_1350	INT_1351	UUM180827.matabat2bin.234.proteins
+INT_1246	INT_1247	INT_1350
+UUJ180925.matabat2bin.435.proteins
+UUM180827.matabat2bin.337.proteins
+INT_1361	UUJ180925.matabat2bin.435.proteins	UUM180827.matabat2bin.337.proteins
+UUJ180827.matabat2bin.41.proteins
+INT_1360	INT_1361	UUJ180827.matabat2bin.41.proteins
+UUJ180802.matabat2bin.346.proteins
+INT_1359	INT_1360	UUJ180802.matabat2bin.346.proteins
+UUJ180410.matabat2bin.307.proteins
+UUJ170105.matabat2bin.29.proteins
+UUM180827.matabat2bin.328.decontaminated.proteins
+INT_1368	UUJ170105.matabat2bin.29.proteins	UUM180827.matabat2bin.328.decontaminated.proteins
+INT_1366	UUJ180410.matabat2bin.307.proteins	INT_1368
+INT_1358	INT_1359	INT_1366
+UUJ180815.matabat2bin.413.proteins
+UUJ180802.matabat2bin.370.proteins
+INT_1371	UUJ180815.matabat2bin.413.proteins	UUJ180802.matabat2bin.370.proteins
+INT_1357	INT_1358	INT_1371
+UUJ170412.matabat2bin.348.proteins
+UUJ180802.matabat2bin.142.proteins
+INT_1374	UUJ170412.matabat2bin.348.proteins	UUJ180802.matabat2bin.142.proteins
+INT_1356	INT_1357	INT_1374
+UUJ180219.matabat2bin.40.decontaminated.proteins
+UUJ180802.matabat2bin.417.proteins
+INT_1377	UUJ180219.matabat2bin.40.decontaminated.proteins	UUJ180802.matabat2bin.417.proteins
+INT_1355	INT_1356	INT_1377
+INT_1245	INT_1246	INT_1355
+INT_1187	INT_1188	INT_1245
+UUJ170630.matabat2bin.372.decontaminated.proteins
+UUJ170105.matabat2bin.12.proteins
+INT_1387	UUJ170630.matabat2bin.372.decontaminated.proteins	UUJ170105.matabat2bin.12.proteins
+UUJ170630.matabat2bin.188.proteins
+INT_1386	INT_1387	UUJ170630.matabat2bin.188.proteins
+UUJ170105.matabat2bin.15.proteins
+INT_1385	INT_1386	UUJ170105.matabat2bin.15.proteins
+UUJ170630.matabat2bin.50.proteins
+INT_1384	INT_1385	UUJ170630.matabat2bin.50.proteins
+UUJ170726.matabat2bin.81.proteins
+INT_1383	INT_1384	UUJ170726.matabat2bin.81.proteins
+UUJ170615.matabat2bin.350.proteins
+UUJ171027.matabat2bin.228.proteins
+UUJ170630.matabat2bin.405.proteins
+INT_1397	UUJ171027.matabat2bin.228.proteins	UUJ170630.matabat2bin.405.proteins
+UUJ180815.matabat2bin.22.proteins
+INT_1396	INT_1397	UUJ180815.matabat2bin.22.proteins
+INT_1394	UUJ170615.matabat2bin.350.proteins	INT_1396
+INT_1382	INT_1383	INT_1394
+UUJ180313.matabat2bin.301.proteins
+UUJ180802.matabat2bin.285.proteins
+INT_1402	UUJ180313.matabat2bin.301.proteins	UUJ180802.matabat2bin.285.proteins
+UUJ170721.matabat2bin.361.proteins
+UUJ170412.matabat2bin.112.proteins
+INT_1405	UUJ170721.matabat2bin.361.proteins	UUJ170412.matabat2bin.112.proteins
+INT_1401	INT_1402	INT_1405
+INT_1381	INT_1382	INT_1401
+UUJ180510.matabat2bin.164.proteins
+UUJ180802.matabat2bin.23.proteins
+INT_1408	UUJ180510.matabat2bin.164.proteins	UUJ180802.matabat2bin.23.proteins
+INT_1380	INT_1381	INT_1408
+INT_1186	INT_1187	INT_1380
+INT_1148	INT_1149	INT_1186
+UUJ180827.matabat2bin.422.proteins
+UUF170621.matabat2bin.333.proteins
+UUJ180718.matabat2bin.198.decontaminated.proteins
+INT_1413	UUF170621.matabat2bin.333.proteins	UUJ180718.matabat2bin.198.decontaminated.proteins
+INT_1411	UUJ180827.matabat2bin.422.proteins	INT_1413
+INT_1147	INT_1148	INT_1411
+INT_901	INT_902	INT_1147
+UUJ180815.matabat2bin.182.proteins
+UUJ170620.matabat2bin.438.proteins
+UUJ180410.matabat2bin.64.proteins
+UUJ170721.matabat2bin.24.proteins
+INT_1427	UUJ180410.matabat2bin.64.proteins	UUJ170721.matabat2bin.24.proteins
+INT_1425	UUJ170620.matabat2bin.438.proteins	INT_1427
+UUJ170721.matabat2bin.280.decontaminated.proteins
+UUJ180802.matabat2bin.239.proteins
+UUJ180510.matabat2bin.328.proteins
+INT_1432	UUJ180802.matabat2bin.239.proteins	UUJ180510.matabat2bin.328.proteins
+INT_1430	UUJ170721.matabat2bin.280.decontaminated.proteins	INT_1432
+INT_1424	INT_1425	INT_1430
+INT_1422	UUJ180815.matabat2bin.182.proteins	INT_1424
+UUJ170523.matabat2bin.365.proteins
+UUJ180510.matabat2bin.151.proteins
+INT_1438	UUJ170523.matabat2bin.365.proteins	UUJ180510.matabat2bin.151.proteins
+UUJ180802.matabat2bin.179.proteins
+INT_1437	INT_1438	UUJ180802.matabat2bin.179.proteins
+UUJ180510.matabat2bin.40.proteins
+INT_1436	INT_1437	UUJ180510.matabat2bin.40.proteins
+UUJ170927.matabat2bin.355.proteins
+INT_1435	INT_1436	UUJ170927.matabat2bin.355.proteins
+INT_1421	INT_1422	INT_1435
+UUJ180815.matabat2bin.374.proteins
+UUJ180802.matabat2bin.132.proteins
+UUJ180410.matabat2bin.149.proteins
+INT_1447	UUJ180802.matabat2bin.132.proteins	UUJ180410.matabat2bin.149.proteins
+INT_1445	UUJ180815.matabat2bin.374.proteins	INT_1447
+UUJ170818.matabat2bin.173.proteins
+INT_1444	INT_1445	UUJ170818.matabat2bin.173.proteins
+INT_1420	INT_1421	INT_1444
+UUJ170804.matabat2bin.333.proteins
+UUJ170620.matabat2bin.17.proteins
+UUJ180802.matabat2bin.91.proteins
+INT_1457	UUJ170620.matabat2bin.17.proteins	UUJ180802.matabat2bin.91.proteins
+UUJ180802.matabat2bin.122.proteins
+INT_1456	INT_1457	UUJ180802.matabat2bin.122.proteins
+INT_1454	UUJ170804.matabat2bin.333.proteins	INT_1456
+UUJ170105.matabat2bin.359.proteins
+INT_1453	INT_1454	UUJ170105.matabat2bin.359.proteins
+UUJ170523.matabat2bin.290.proteins
+INT_1452	INT_1453	UUJ170523.matabat2bin.290.proteins
+UUJ180510.matabat2bin.388.proteins
+INT_1451	INT_1452	UUJ180510.matabat2bin.388.proteins
+INT_1419	INT_1420	INT_1451
+UUJ170721.matabat2bin.125.proteins
+INT_1418	INT_1419	UUJ170721.matabat2bin.125.proteins
+UUJ170523.matabat2bin.251.proteins
+UUJ170721.matabat2bin.57.proteins
+INT_1466	UUJ170523.matabat2bin.251.proteins	UUJ170721.matabat2bin.57.proteins
+UUJ170523.matabat2bin.14.decontaminated.proteins
+UUJ180410.matabat2bin.353.proteins
+INT_1469	UUJ170523.matabat2bin.14.decontaminated.proteins	UUJ180410.matabat2bin.353.proteins
+INT_1465	INT_1466	INT_1469
+INT_1417	INT_1418	INT_1465
+UUJ170927.matabat2bin.89.proteins
+UUJ170501.matabat2bin.107.proteins
+UUJ170412.matabat2bin.99.proteins
+INT_1474	UUJ170501.matabat2bin.107.proteins	UUJ170412.matabat2bin.99.proteins
+INT_1472	UUJ170927.matabat2bin.89.proteins	INT_1474
+INT_1416	INT_1417	INT_1472
+INT_900	INT_901	INT_1416
+UUJ180925.matabat2bin.356.proteins
+UUJ170721.matabat2bin.302.proteins
+UUJ180815.matabat2bin.375.proteins
+INT_1487	UUJ170721.matabat2bin.302.proteins	UUJ180815.matabat2bin.375.proteins
+UUJ170721.matabat2bin.337.proteins
+INT_1486	INT_1487	UUJ170721.matabat2bin.337.proteins
+UUJ170620.matabat2bin.416.proteins
+INT_1485	INT_1486	UUJ170620.matabat2bin.416.proteins
+UUJ170804.matabat2bin.354.decontaminated.proteins
+INT_1484	INT_1485	UUJ170804.matabat2bin.354.decontaminated.proteins
+UUF170620.matabat2bin.399.proteins
+UUJ170626.matabat2bin.47.proteins
+UUJ180802.matabat2bin.280.proteins
+INT_1501	UUJ170626.matabat2bin.47.proteins	UUJ180802.matabat2bin.280.proteins
+UUJ170804.matabat2bin.304.proteins
+INT_1500	INT_1501	UUJ170804.matabat2bin.304.proteins
+INT_1498	UUF170620.matabat2bin.399.proteins	INT_1500
+UUJ180510.matabat2bin.453.proteins
+UUJ180219.matabat2bin.176.proteins
+INT_1505	UUJ180510.matabat2bin.453.proteins	UUJ180219.matabat2bin.176.proteins
+INT_1497	INT_1498	INT_1505
+UUJ180313.matabat2bin.37.proteins
+INT_1496	INT_1497	UUJ180313.matabat2bin.37.proteins
+UUJ170623.matabat2bin.273.proteins
+UUJ180410.matabat2bin.141.proteins
+INT_1509	UUJ170623.matabat2bin.273.proteins	UUJ180410.matabat2bin.141.proteins
+INT_1495	INT_1496	INT_1509
+UUJ180410.matabat2bin.367.proteins
+INT_1494	INT_1495	UUJ180410.matabat2bin.367.proteins
+UUJ170630.matabat2bin.158.proteins
+UUJ170412.matabat2bin.317.proteins
+INT_1513	UUJ170630.matabat2bin.158.proteins	UUJ170412.matabat2bin.317.proteins
+INT_1493	INT_1494	INT_1513
+INT_1483	INT_1484	INT_1493
+INT_1481	UUJ180925.matabat2bin.356.proteins	INT_1483
+UUJ170714.matabat2bin.255.proteins
+INT_1480	INT_1481	UUJ170714.matabat2bin.255.proteins
+UUJ171110.matabat2bin.22.proteins
+UUJ180313.matabat2bin.111.proteins
+INT_1519	UUJ171110.matabat2bin.22.proteins	UUJ180313.matabat2bin.111.proteins
+016.Organic.Lake.phycodnavirus.2.proteins
+015.Organic.Lake.phycodnavirus.1.proteins
+INT_1522	016.Organic.Lake.phycodnavirus.2.proteins	015.Organic.Lake.phycodnavirus.1.proteins
+INT_1518	INT_1519	INT_1522
+UUJ170706.matabat2bin.144.proteins
+UUJ171027.matabat2bin.3.proteins
+INT_1525	UUJ170706.matabat2bin.144.proteins	UUJ171027.matabat2bin.3.proteins
+INT_1517	INT_1518	INT_1525
+INT_1479	INT_1480	INT_1517
+UUJ180802.matabat2bin.119.proteins
+INT_1478	INT_1479	UUJ180802.matabat2bin.119.proteins
+UUJ170630.matabat2bin.389.proteins
+UUJ170523.matabat2bin.19.proteins
+INT_1530	UUJ170630.matabat2bin.389.proteins	UUJ170523.matabat2bin.19.proteins
+UUJ180410.matabat2bin.288.decontaminated.proteins
+UUJ170714.matabat2bin.332.proteins
+INT_1535	UUJ180410.matabat2bin.288.decontaminated.proteins	UUJ170714.matabat2bin.332.proteins
+UUJ180510.matabat2bin.187.proteins
+INT_1534	INT_1535	UUJ180510.matabat2bin.187.proteins
+UUJ171113.matabat2bin.51.proteins
+INT_1533	INT_1534	UUJ171113.matabat2bin.51.proteins
+INT_1529	INT_1530	INT_1533
+INT_1477	INT_1478	INT_1529
+INT_899	INT_900	INT_1477
+UUJ180410.matabat2bin.26.proteins
+INT_898	INT_899	UUJ180410.matabat2bin.26.proteins
+INT_794	INT_795	INT_898
+UUJ170105.matabat2bin.133.proteins
+UUJ170706.matabat2bin.299.proteins
+INT_1543	UUJ170105.matabat2bin.133.proteins	UUJ170706.matabat2bin.299.proteins
+UUJ170714.matabat2bin.159.proteins
+UUJ180510.matabat2bin.356.proteins
+UUJ170804.matabat2bin.120.proteins
+INT_1548	UUJ180510.matabat2bin.356.proteins	UUJ170804.matabat2bin.120.proteins
+INT_1546	UUJ170714.matabat2bin.159.proteins	INT_1548
+INT_1542	INT_1543	INT_1546
+UUJ180110.matabat2bin.89.proteins
+UUJ170105.matabat2bin.188.proteins
+UUJ170630.matabat2bin.106.proteins
+INT_1554	UUJ170105.matabat2bin.188.proteins	UUJ170630.matabat2bin.106.proteins
+UUJ170105.matabat2bin.281.proteins
+INT_1553	INT_1554	UUJ170105.matabat2bin.281.proteins
+INT_1551	UUJ180110.matabat2bin.89.proteins	INT_1553
+INT_1541	INT_1542	INT_1551
+INT_793	INT_794	INT_1541
+UUJ180802.matabat2bin.318.proteins
+UUJ170706.matabat2bin.203.proteins
+INT_1562	UUJ180802.matabat2bin.318.proteins	UUJ170706.matabat2bin.203.proteins
+UUJ180802.matabat2bin.340.proteins
+INT_1561	INT_1562	UUJ180802.matabat2bin.340.proteins
+UUJ170706.matabat2bin.87.proteins
+INT_1560	INT_1561	UUJ170706.matabat2bin.87.proteins
+UUJ170630.matabat2bin.431.decontaminated.proteins
+UUJ180802.matabat2bin.129.proteins
+INT_1568	UUJ170630.matabat2bin.431.decontaminated.proteins	UUJ180802.matabat2bin.129.proteins
+UUM180827.matabat2bin.312.proteins
+INT_1567	INT_1568	UUM180827.matabat2bin.312.proteins
+INT_1559	INT_1560	INT_1567
+UUJ170630.matabat2bin.49.decontaminated.proteins
+INT_1558	INT_1559	UUJ170630.matabat2bin.49.decontaminated.proteins
+INT_792	INT_793	INT_1558
+UUJ180219.matabat2bin.153.proteins
+UUJ170615.matabat2bin.275.proteins
+INT_1580	UUJ180219.matabat2bin.153.proteins	UUJ170615.matabat2bin.275.proteins
+UUJ170105.matabat2bin.121.proteins
+UUJ170523.matabat2bin.304.decontaminated.proteins
+INT_1583	UUJ170105.matabat2bin.121.proteins	UUJ170523.matabat2bin.304.decontaminated.proteins
+INT_1579	INT_1580	INT_1583
+UUJ171218.matabat2bin.351.proteins
+INT_1578	INT_1579	UUJ171218.matabat2bin.351.proteins
+UUJ171218.matabat2bin.274.proteins
+UUJ180219.matabat2bin.186.proteins
+INT_1587	UUJ171218.matabat2bin.274.proteins	UUJ180219.matabat2bin.186.proteins
+INT_1577	INT_1578	INT_1587
+UUJ170105.matabat2bin.364.proteins
+UUJ180219.matabat2bin.134.proteins
+INT_1595	UUJ170105.matabat2bin.364.proteins	UUJ180219.matabat2bin.134.proteins
+UUJ170630.matabat2bin.67.proteins
+INT_1594	INT_1595	UUJ170630.matabat2bin.67.proteins
+UUJ171218.matabat2bin.294.decontaminated.proteins
+INT_1593	INT_1594	UUJ171218.matabat2bin.294.decontaminated.proteins
+UUJ171218.matabat2bin.327.decontaminated.proteins
+INT_1592	INT_1593	UUJ171218.matabat2bin.327.decontaminated.proteins
+UUJ171218.matabat2bin.192.proteins
+UUJ170105.matabat2bin.56.decontaminated.proteins
+INT_1606	UUJ171218.matabat2bin.192.proteins	UUJ170105.matabat2bin.56.decontaminated.proteins
+UUJ171218.matabat2bin.303.proteins
+UUJ171218.matabat2bin.99.decontaminated.proteins
+UUJ180219.matabat2bin.143.proteins
+INT_1614	UUJ171218.matabat2bin.99.decontaminated.proteins	UUJ180219.matabat2bin.143.proteins
+UUJ171218.matabat2bin.162.proteins
+INT_1613	INT_1614	UUJ171218.matabat2bin.162.proteins
+UUJ170523.matabat2bin.82.decontaminated.proteins
+INT_1612	INT_1613	UUJ170523.matabat2bin.82.decontaminated.proteins
+UUJ180313.matabat2bin.292.proteins
+INT_1611	INT_1612	UUJ180313.matabat2bin.292.proteins
+INT_1609	UUJ171218.matabat2bin.303.proteins	INT_1611
+INT_1605	INT_1606	INT_1609
+UUJ171218.matabat2bin.307.proteins
+UUJ171218.matabat2bin.76.proteins
+INT_1620	UUJ171218.matabat2bin.307.proteins	UUJ171218.matabat2bin.76.proteins
+INT_1604	INT_1605	INT_1620
+UUJ180219.matabat2bin.152.proteins
+UUJ171218.matabat2bin.369.proteins
+INT_1623	UUJ180219.matabat2bin.152.proteins	UUJ171218.matabat2bin.369.proteins
+INT_1603	INT_1604	INT_1623
+UUJ170105.matabat2bin.45.proteins
+UUJ170501.matabat2bin.267.decontaminated.proteins
+INT_1629	UUJ170105.matabat2bin.45.proteins	UUJ170501.matabat2bin.267.decontaminated.proteins
+UUJ180827.matabat2bin.177.decontaminated.proteins
+INT_1628	INT_1629	UUJ180827.matabat2bin.177.decontaminated.proteins
+UUJ170523.matabat2bin.157.proteins
+INT_1627	INT_1628	UUJ170523.matabat2bin.157.proteins
+UUJ171218.matabat2bin.41.proteins
+INT_1626	INT_1627	UUJ171218.matabat2bin.41.proteins
+INT_1602	INT_1603	INT_1626
+UUJ170623.matabat2bin.189.proteins
+UUJ170523.matabat2bin.168.proteins
+INT_1637	UUJ170623.matabat2bin.189.proteins	UUJ170523.matabat2bin.168.proteins
+UUJ180510.matabat2bin.255.proteins
+INT_1636	INT_1637	UUJ180510.matabat2bin.255.proteins
+UUJ180925.matabat2bin.165.proteins
+INT_1635	INT_1636	UUJ180925.matabat2bin.165.proteins
+INT_1601	INT_1602	INT_1635
+INT_1591	INT_1592	INT_1601
+UUJ170501.matabat2bin.265.decontaminated.proteins
+UUJ180510.matabat2bin.339.proteins
+INT_1647	UUJ170501.matabat2bin.265.decontaminated.proteins	UUJ180510.matabat2bin.339.proteins
+UUJ180622.matabat2bin.219.proteins
+UUJ170105.matabat2bin.151.proteins
+INT_1653	UUJ180622.matabat2bin.219.proteins	UUJ170105.matabat2bin.151.proteins
+UUJ180510.matabat2bin.346.proteins
+UUJ170804.matabat2bin.76.proteins
+INT_1656	UUJ180510.matabat2bin.346.proteins	UUJ170804.matabat2bin.76.proteins
+INT_1652	INT_1653	INT_1656
+UUJ180925.matabat2bin.187.proteins
+INT_1651	INT_1652	UUJ180925.matabat2bin.187.proteins
+UUJ170804.matabat2bin.414.proteins
+UUJ180827.matabat2bin.355.decontaminated.proteins
+INT_1661	UUJ170804.matabat2bin.414.proteins	UUJ180827.matabat2bin.355.decontaminated.proteins
+UUJ180510.matabat2bin.463.proteins
+INT_1660	INT_1661	UUJ180510.matabat2bin.463.proteins
+INT_1650	INT_1651	INT_1660
+INT_1646	INT_1647	INT_1650
+UUJ180622.matabat2bin.330.decontaminated.proteins
+INT_1645	INT_1646	UUJ180622.matabat2bin.330.decontaminated.proteins
+UUJ171218.matabat2bin.231.proteins
+UUJ180827.matabat2bin.386.proteins
+INT_1666	UUJ171218.matabat2bin.231.proteins	UUJ180827.matabat2bin.386.proteins
+INT_1644	INT_1645	INT_1666
+UUJ170721.matabat2bin.384.proteins
+INT_1643	INT_1644	UUJ170721.matabat2bin.384.proteins
+UUJ171218.matabat2bin.70.proteins
+UUJ170501.matabat2bin.55.decontaminated.proteins
+UUJ180510.matabat2bin.438.proteins
+UUJ180410.matabat2bin.319.proteins
+INT_1675	UUJ180510.matabat2bin.438.proteins	UUJ180410.matabat2bin.319.proteins
+INT_1673	UUJ170501.matabat2bin.55.decontaminated.proteins	INT_1675
+UUJ170523.matabat2bin.162.decontaminated.proteins
+INT_1672	INT_1673	UUJ170523.matabat2bin.162.decontaminated.proteins
+INT_1670	UUJ171218.matabat2bin.70.proteins	INT_1672
+INT_1642	INT_1643	INT_1670
+INT_1590	INT_1591	INT_1642
+INT_1576	INT_1577	INT_1590
+UUJ170612.matabat2bin.344.proteins
+UUJ170818.matabat2bin.276.proteins
+INT_1684	UUJ170612.matabat2bin.344.proteins	UUJ170818.matabat2bin.276.proteins
+UUJ171218.matabat2bin.11.proteins
+INT_1683	INT_1684	UUJ171218.matabat2bin.11.proteins
+UUJ170927.matabat2bin.46.proteins
+UUJ171218.matabat2bin.263.proteins
+INT_1688	UUJ170927.matabat2bin.46.proteins	UUJ171218.matabat2bin.263.proteins
+INT_1682	INT_1683	INT_1688
+UUJ171218.matabat2bin.84.decontaminated.proteins
+UUF170620.matabat2bin.35.proteins
+UUJ170501.matabat2bin.228.proteins
+INT_1693	UUF170620.matabat2bin.35.proteins	UUJ170501.matabat2bin.228.proteins
+INT_1691	UUJ171218.matabat2bin.84.decontaminated.proteins	INT_1693
+INT_1681	INT_1682	INT_1691
+022.Mimiviridae.sp.ChoanoV1.proteins
+INT_1680	INT_1681	022.Mimiviridae.sp.ChoanoV1.proteins
+UUJ170804.matabat2bin.219.proteins
+UUJ180802.matabat2bin.249.proteins
+INT_1699	UUJ170804.matabat2bin.219.proteins	UUJ180802.matabat2bin.249.proteins
+UUJ170523.matabat2bin.357.proteins
+INT_1698	INT_1699	UUJ170523.matabat2bin.357.proteins
+UUJ171218.matabat2bin.129.proteins
+INT_1697	INT_1698	UUJ171218.matabat2bin.129.proteins
+INT_1679	INT_1680	INT_1697
+INT_1575	INT_1576	INT_1679
+UUJ180510.matabat2bin.152.decontaminated.proteins
+INT_1574	INT_1575	UUJ180510.matabat2bin.152.decontaminated.proteins
+UUJ171113.matabat2bin.315.decontaminated.proteins
+UUJ180313.matabat2bin.10.proteins
+UUJ170927.matabat2bin.47.proteins
+INT_1710	UUJ180313.matabat2bin.10.proteins	UUJ170927.matabat2bin.47.proteins
+INT_1708	UUJ171113.matabat2bin.315.decontaminated.proteins	INT_1710
+UUJ170523.matabat2bin.341.proteins
+UUJ180510.matabat2bin.51.proteins
+INT_1719	UUJ170523.matabat2bin.341.proteins	UUJ180510.matabat2bin.51.proteins
+UUJ170626.matabat2bin.354.proteins
+INT_1718	INT_1719	UUJ170626.matabat2bin.354.proteins
+UUJ180410.matabat2bin.98.proteins
+INT_1717	INT_1718	UUJ180410.matabat2bin.98.proteins
+UUJ170804.matabat2bin.399.proteins
+UUJ170804.matabat2bin.384.proteins
+INT_1724	UUJ170804.matabat2bin.399.proteins	UUJ170804.matabat2bin.384.proteins
+INT_1716	INT_1717	INT_1724
+UUJ180510.matabat2bin.363.proteins
+INT_1715	INT_1716	UUJ180510.matabat2bin.363.proteins
+UUJ180410.matabat2bin.363.decontaminated.proteins
+INT_1714	INT_1715	UUJ180410.matabat2bin.363.decontaminated.proteins
+UUM180827.matabat2bin.336.decontaminated.proteins
+UUJ180802.matabat2bin.457.proteins
+INT_1730	UUM180827.matabat2bin.336.decontaminated.proteins	UUJ180802.matabat2bin.457.proteins
+UUJ180815.matabat2bin.68.proteins
+INT_1729	INT_1730	UUJ180815.matabat2bin.68.proteins
+INT_1713	INT_1714	INT_1729
+INT_1707	INT_1708	INT_1713
+UUJ170620.matabat2bin.41.proteins
+UUJ180410.matabat2bin.150.proteins
+INT_1736	UUJ170620.matabat2bin.41.proteins	UUJ180410.matabat2bin.150.proteins
+UUJ180528.matabat2bin.346.proteins
+INT_1735	INT_1736	UUJ180528.matabat2bin.346.proteins
+UUJ170523.matabat2bin.31.proteins
+UUJ170804.matabat2bin.43.proteins
+UUJ180622.matabat2bin.112.decontaminated.proteins
+INT_1744	UUJ170804.matabat2bin.43.proteins	UUJ180622.matabat2bin.112.decontaminated.proteins
+INT_1742	UUJ170523.matabat2bin.31.proteins	INT_1744
+UUJ180510.matabat2bin.183.proteins
+INT_1741	INT_1742	UUJ180510.matabat2bin.183.proteins
+UUJ170630.matabat2bin.47.proteins
+UUJ170804.matabat2bin.119.decontaminated.proteins
+INT_1750	UUJ170630.matabat2bin.47.proteins	UUJ170804.matabat2bin.119.decontaminated.proteins
+UUJ170804.matabat2bin.241.proteins
+INT_1749	INT_1750	UUJ170804.matabat2bin.241.proteins
+UUJ170818.matabat2bin.303.proteins
+INT_1748	INT_1749	UUJ170818.matabat2bin.303.proteins
+INT_1740	INT_1741	INT_1748
+INT_1734	INT_1735	INT_1740
+INT_1706	INT_1707	INT_1734
+UUJ170927.matabat2bin.17.proteins
+UUJ170630.matabat2bin.411.decontaminated.proteins
+UUJ180925.matabat2bin.266.proteins
+UUJ170804.matabat2bin.24.proteins
+INT_1759	UUJ180925.matabat2bin.266.proteins	UUJ170804.matabat2bin.24.proteins
+INT_1757	UUJ170630.matabat2bin.411.decontaminated.proteins	INT_1759
+INT_1755	UUJ170927.matabat2bin.17.proteins	INT_1757
+INT_1705	INT_1706	INT_1755
+INT_1573	INT_1574	INT_1705
+INT_791	INT_792	INT_1573
+UUJ180903.matabat2bin.376.proteins
+UUJ180718.matabat2bin.15.proteins
+INT_1768	UUJ180903.matabat2bin.376.proteins	UUJ180718.matabat2bin.15.proteins
+UUJ170626.matabat2bin.203.decontaminated.proteins
+INT_1767	INT_1768	UUJ170626.matabat2bin.203.decontaminated.proteins
+UUJ180622.matabat2bin.225.decontaminated.proteins
+INT_1766	INT_1767	UUJ180622.matabat2bin.225.decontaminated.proteins
+UUJ170105.matabat2bin.161.proteins
+UUJ180622.matabat2bin.264.proteins
+INT_1773	UUJ170105.matabat2bin.161.proteins	UUJ180622.matabat2bin.264.proteins
+INT_1765	INT_1766	INT_1773
+UUJ180510.matabat2bin.263.proteins
+INT_1764	INT_1765	UUJ180510.matabat2bin.263.proteins
+UUJ170721.matabat2bin.386.proteins
+UUJ180110.matabat2bin.127.proteins
+INT_1777	UUJ170721.matabat2bin.386.proteins	UUJ180110.matabat2bin.127.proteins
+INT_1763	INT_1764	INT_1777
+UUJ170306.matabat2bin.54.proteins
+UUJ170306.matabat2bin.297.proteins
+INT_1786	UUJ170306.matabat2bin.54.proteins	UUJ170306.matabat2bin.297.proteins
+UUJ180802.matabat2bin.316.proteins
+UUJ170623.matabat2bin.15.proteins
+UUJ180510.matabat2bin.312.proteins
+UUF170620.matabat2bin.347.proteins
+INT_1793	UUJ180510.matabat2bin.312.proteins	UUF170620.matabat2bin.347.proteins
+INT_1791	UUJ170623.matabat2bin.15.proteins	INT_1793
+INT_1789	UUJ180802.matabat2bin.316.proteins	INT_1791
+INT_1785	INT_1786	INT_1789
+UUF170620.matabat2bin.107.proteins
+UUF170620.matabat2bin.325.proteins
+UUF170621.matabat2bin.27.proteins
+INT_1799	UUF170620.matabat2bin.325.proteins	UUF170621.matabat2bin.27.proteins
+INT_1797	UUF170620.matabat2bin.107.proteins	INT_1799
+UUJ170626.matabat2bin.389.proteins
+INT_1796	INT_1797	UUJ170626.matabat2bin.389.proteins
+INT_1784	INT_1785	INT_1796
+UUJ170615.matabat2bin.367.proteins
+UUJ170804.matabat2bin.282.proteins
+INT_1805	UUJ170615.matabat2bin.367.proteins	UUJ170804.matabat2bin.282.proteins
+UUJ170615.matabat2bin.366.proteins
+UUJ180410.matabat2bin.188.proteins
+INT_1809	UUJ170615.matabat2bin.366.proteins	UUJ180410.matabat2bin.188.proteins
+UUJ170523.matabat2bin.336.decontaminated.proteins
+UUJ180219.matabat2bin.170.proteins
+INT_1814	UUJ170523.matabat2bin.336.decontaminated.proteins	UUJ180219.matabat2bin.170.proteins
+UUJ170804.matabat2bin.217.proteins
+UUJ180925.matabat2bin.263.proteins
+INT_1817	UUJ170804.matabat2bin.217.proteins	UUJ180925.matabat2bin.263.proteins
+INT_1813	INT_1814	INT_1817
+UUJ180809.matabat2bin.30.proteins
+INT_1812	INT_1813	UUJ180809.matabat2bin.30.proteins
+INT_1808	INT_1809	INT_1812
+INT_1804	INT_1805	INT_1808
+UUJ180510.matabat2bin.399.proteins
+UUJ180313.matabat2bin.8.proteins
+INT_1823	UUJ180510.matabat2bin.399.proteins	UUJ180313.matabat2bin.8.proteins
+UUJ170721.matabat2bin.332.proteins
+INT_1822	INT_1823	UUJ170721.matabat2bin.332.proteins
+UUJ180510.matabat2bin.174.proteins
+INT_1821	INT_1822	UUJ180510.matabat2bin.174.proteins
+INT_1803	INT_1804	INT_1821
+INT_1783	INT_1784	INT_1803
+UUJ170818.matabat2bin.239.proteins
+UUM180827.matabat2bin.330.decontaminated.proteins
+INT_1828	UUJ170818.matabat2bin.239.proteins	UUM180827.matabat2bin.330.decontaminated.proteins
+INT_1782	INT_1783	INT_1828
+UUJ170306.matabat2bin.2.proteins
+UUJ180718.matabat2bin.45.proteins
+INT_1831	UUJ170306.matabat2bin.2.proteins	UUJ180718.matabat2bin.45.proteins
+INT_1781	INT_1782	INT_1831
+UUJ170105.matabat2bin.226.proteins
+UUJ170412.matabat2bin.298.proteins
+UUJ180510.matabat2bin.444.proteins
+INT_1842	UUJ170412.matabat2bin.298.proteins	UUJ180510.matabat2bin.444.proteins
+INT_1840	UUJ170105.matabat2bin.226.proteins	INT_1842
+UUJ170623.matabat2bin.88.proteins
+UUJ170105.matabat2bin.347.proteins
+INT_1845	UUJ170623.matabat2bin.88.proteins	UUJ170105.matabat2bin.347.proteins
+INT_1839	INT_1840	INT_1845
+UUJ180219.matabat2bin.17.proteins
+INT_1838	INT_1839	UUJ180219.matabat2bin.17.proteins
+UUJ180925.matabat2bin.377.proteins
+UUJ180802.matabat2bin.19.proteins
+UUJ180925.matabat2bin.393.proteins
+INT_1851	UUJ180802.matabat2bin.19.proteins	UUJ180925.matabat2bin.393.proteins
+INT_1849	UUJ180925.matabat2bin.377.proteins	INT_1851
+INT_1837	INT_1838	INT_1849
+UUJ171027.matabat2bin.147.proteins
+UUJ170105.matabat2bin.66.proteins
+INT_1857	UUJ171027.matabat2bin.147.proteins	UUJ170105.matabat2bin.66.proteins
+UUJ180410.matabat2bin.327.proteins
+UUJ180219.matabat2bin.163.proteins
+INT_1860	UUJ180410.matabat2bin.327.proteins	UUJ180219.matabat2bin.163.proteins
+INT_1856	INT_1857	INT_1860
+UUJ170412.matabat2bin.326.proteins
+UUJ170706.matabat2bin.121.proteins
+INT_1863	UUJ170412.matabat2bin.326.proteins	UUJ170706.matabat2bin.121.proteins
+INT_1855	INT_1856	INT_1863
+UUJ170105.matabat2bin.242.proteins
+UUJ180510.matabat2bin.387.proteins
+INT_1866	UUJ170105.matabat2bin.242.proteins	UUJ180510.matabat2bin.387.proteins
+INT_1854	INT_1855	INT_1866
+INT_1836	INT_1837	INT_1854
+UUJ180925.matabat2bin.28.proteins
+UUJ180903.matabat2bin.38.proteins
+INT_1870	UUJ180925.matabat2bin.28.proteins	UUJ180903.matabat2bin.38.proteins
+UUJ170306.matabat2bin.160.proteins
+UUJ170501.matabat2bin.96.proteins
+UUJ170612.matabat2bin.17.proteins
+INT_1877	UUJ170501.matabat2bin.96.proteins	UUJ170612.matabat2bin.17.proteins
+INT_1875	UUJ170306.matabat2bin.160.proteins	INT_1877
+UUJ170306.matabat2bin.57.proteins
+INT_1874	INT_1875	UUJ170306.matabat2bin.57.proteins
+UUJ180410.matabat2bin.388.proteins
+INT_1873	INT_1874	UUJ180410.matabat2bin.388.proteins
+INT_1869	INT_1870	INT_1873
+INT_1835	INT_1836	INT_1869
+008.Tetraselmis.virus.1.proteins
+UUJ180629.matabat2bin.346.proteins
+INT_1882	008.Tetraselmis.virus.1.proteins	UUJ180629.matabat2bin.346.proteins
+INT_1834	INT_1835	INT_1882
+INT_1780	INT_1781	INT_1834
+INT_1762	INT_1763	INT_1780
+INT_790	INT_791	INT_1762
+UUJ180219.matabat2bin.16.proteins
+UUJ180827.matabat2bin.123.proteins
+INT_1894	UUJ180219.matabat2bin.16.proteins	UUJ180827.matabat2bin.123.proteins
+UUJ171218.matabat2bin.340.proteins
+UUM180827.matabat2bin.10.proteins
+UUJ180903.matabat2bin.161.proteins
+INT_1899	UUM180827.matabat2bin.10.proteins	UUJ180903.matabat2bin.161.proteins
+INT_1897	UUJ171218.matabat2bin.340.proteins	INT_1899
+INT_1893	INT_1894	INT_1897
+UUJ180622.matabat2bin.28.proteins
+INT_1892	INT_1893	UUJ180622.matabat2bin.28.proteins
+UUM180827.matabat2bin.142.proteins
+UUJ180622.matabat2bin.147.proteins
+INT_1906	UUM180827.matabat2bin.142.proteins	UUJ180622.matabat2bin.147.proteins
+UUJ170804.matabat2bin.279.proteins
+INT_1905	INT_1906	UUJ170804.matabat2bin.279.proteins
+UUJ171218.matabat2bin.6.proteins
+UUJ180410.matabat2bin.22.proteins
+UUJ170523.matabat2bin.312.proteins
+INT_1915	UUJ180410.matabat2bin.22.proteins	UUJ170523.matabat2bin.312.proteins
+UUJ180219.matabat2bin.187.proteins
+INT_1914	INT_1915	UUJ180219.matabat2bin.187.proteins
+UUJ170501.matabat2bin.91.proteins
+UUJ180815.matabat2bin.74.proteins
+INT_1919	UUJ170501.matabat2bin.91.proteins	UUJ180815.matabat2bin.74.proteins
+INT_1913	INT_1914	INT_1919
+INT_1911	UUJ171218.matabat2bin.6.proteins	INT_1913
+UUJ170714.matabat2bin.353.proteins
+UUJ180410.matabat2bin.306.proteins
+INT_1926	UUJ170714.matabat2bin.353.proteins	UUJ180410.matabat2bin.306.proteins
+UUJ170927.matabat2bin.363.proteins
+UUJ180827.matabat2bin.50.proteins
+INT_1929	UUJ170927.matabat2bin.363.proteins	UUJ180827.matabat2bin.50.proteins
+INT_1925	INT_1926	INT_1929
+UUJ180510.matabat2bin.417.proteins
+UUJ180622.matabat2bin.104.proteins
+INT_1932	UUJ180510.matabat2bin.417.proteins	UUJ180622.matabat2bin.104.proteins
+INT_1924	INT_1925	INT_1932
+UUJ180802.matabat2bin.449.proteins
+UUJ170523.matabat2bin.325.proteins
+INT_1935	UUJ180802.matabat2bin.449.proteins	UUJ170523.matabat2bin.325.proteins
+INT_1923	INT_1924	INT_1935
+UUJ170626.matabat2bin.330.proteins
+INT_1922	INT_1923	UUJ170626.matabat2bin.330.proteins
+INT_1910	INT_1911	INT_1922
+INT_1904	INT_1905	INT_1910
+UUJ180815.matabat2bin.279.proteins
+INT_1903	INT_1904	UUJ180815.matabat2bin.279.proteins
+INT_1891	INT_1892	INT_1903
+UUJ170623.matabat2bin.34.proteins
+UUJ180510.matabat2bin.449.proteins
+UUJ180622.matabat2bin.394.proteins
+INT_1945	UUJ180510.matabat2bin.449.proteins	UUJ180622.matabat2bin.394.proteins
+UUJ171218.matabat2bin.227.proteins
+UUJ171218.matabat2bin.265.decontaminated.proteins
+INT_1948	UUJ171218.matabat2bin.227.proteins	UUJ171218.matabat2bin.265.decontaminated.proteins
+INT_1944	INT_1945	INT_1948
+INT_1942	UUJ170623.matabat2bin.34.proteins	INT_1944
+UUJ171218.matabat2bin.127.decontaminated.proteins
+INT_1941	INT_1942	UUJ171218.matabat2bin.127.decontaminated.proteins
+UUJ180219.matabat2bin.51.proteins
+UUJ180219.matabat2bin.120.proteins
+INT_1953	UUJ180219.matabat2bin.51.proteins	UUJ180219.matabat2bin.120.proteins
+UUJ180110.matabat2bin.225.proteins
+INT_1952	INT_1953	UUJ180110.matabat2bin.225.proteins
+INT_1940	INT_1941	INT_1952
+INT_1890	INT_1891	INT_1940
+UUJ171218.matabat2bin.255.proteins
+UUJ170630.matabat2bin.324.proteins
+UUJ180827.matabat2bin.73.proteins
+INT_1960	UUJ170630.matabat2bin.324.proteins	UUJ180827.matabat2bin.73.proteins
+INT_1958	UUJ171218.matabat2bin.255.proteins	INT_1960
+UUJ170927.matabat2bin.345.proteins
+INT_1957	INT_1958	UUJ170927.matabat2bin.345.proteins
+INT_1889	INT_1890	INT_1957
+UUJ180815.matabat2bin.348.proteins
+INT_1888	INT_1889	UUJ180815.matabat2bin.348.proteins
+UUJ180815.matabat2bin.135.proteins
+UUJ180313.matabat2bin.60.proteins
+INT_1971	UUJ180815.matabat2bin.135.proteins	UUJ180313.matabat2bin.60.proteins
+UUJ180410.matabat2bin.189.proteins
+INT_1970	INT_1971	UUJ180410.matabat2bin.189.proteins
+UUJ180622.matabat2bin.349.proteins
+INT_1969	INT_1970	UUJ180622.matabat2bin.349.proteins
+UUJ170523.matabat2bin.206.decontaminated.proteins
+INT_1968	INT_1969	UUJ170523.matabat2bin.206.decontaminated.proteins
+UUJ180827.matabat2bin.12.proteins
+INT_1967	INT_1968	UUJ180827.matabat2bin.12.proteins
+UUJ170804.matabat2bin.344.proteins
+UUJ171218.matabat2bin.353.proteins
+UUJ170523.matabat2bin.246.proteins
+INT_1983	UUJ171218.matabat2bin.353.proteins	UUJ170523.matabat2bin.246.proteins
+INT_1981	UUJ170804.matabat2bin.344.proteins	INT_1983
+UUJ180827.matabat2bin.256.proteins
+INT_1980	INT_1981	UUJ180827.matabat2bin.256.proteins
+UUJ180510.matabat2bin.23.proteins
+INT_1979	INT_1980	UUJ180510.matabat2bin.23.proteins
+UUJ180802.matabat2bin.344.proteins
+INT_1978	INT_1979	UUJ180802.matabat2bin.344.proteins
+INT_1966	INT_1967	INT_1978
+UUJ170523.matabat2bin.85.proteins
+UUJ180802.matabat2bin.197.proteins
+INT_1992	UUJ170523.matabat2bin.85.proteins	UUJ180802.matabat2bin.197.proteins
+UUJ180622.matabat2bin.275.proteins
+UUJ180510.matabat2bin.460.proteins
+INT_1995	UUJ180622.matabat2bin.275.proteins	UUJ180510.matabat2bin.460.proteins
+INT_1991	INT_1992	INT_1995
+UUJ170523.matabat2bin.273.proteins
+UUJ180802.matabat2bin.402.proteins
+INT_1999	UUJ170523.matabat2bin.273.proteins	UUJ180802.matabat2bin.402.proteins
+UUJ170626.matabat2bin.105.proteins
+UUJ180802.matabat2bin.360.proteins
+INT_2002	UUJ170626.matabat2bin.105.proteins	UUJ180802.matabat2bin.360.proteins
+INT_1998	INT_1999	INT_2002
+INT_1990	INT_1991	INT_1998
+UUJ180510.matabat2bin.239.proteins
+INT_1989	INT_1990	UUJ180510.matabat2bin.239.proteins
+INT_1965	INT_1966	INT_1989
+INT_1887	INT_1888	INT_1965
+UUJ171218.matabat2bin.171.proteins
+INT_1886	INT_1887	UUJ171218.matabat2bin.171.proteins
+UUJ180725.matabat2bin.342.proteins
+UUJ170726.matabat2bin.15.decontaminated.proteins
+UUJ170412.matabat2bin.225.proteins
+INT_2015	UUJ170726.matabat2bin.15.decontaminated.proteins	UUJ170412.matabat2bin.225.proteins
+INT_2013	UUJ180725.matabat2bin.342.proteins	INT_2015
+UUJ180809.matabat2bin.49.proteins
+UUJ170620.matabat2bin.369.proteins
+UUM180827.matabat2bin.27.proteins
+UUJ170306.matabat2bin.62.proteins
+INT_2024	UUM180827.matabat2bin.27.proteins	UUJ170306.matabat2bin.62.proteins
+INT_2022	UUJ170620.matabat2bin.369.proteins	INT_2024
+INT_2020	UUJ180809.matabat2bin.49.proteins	INT_2022
+UUJ170927.matabat2bin.156.proteins
+INT_2019	INT_2020	UUJ170927.matabat2bin.156.proteins
+UUJ180528.matabat2bin.294.proteins
+UUJ180809.matabat2bin.299.proteins
+INT_2030	UUJ180528.matabat2bin.294.proteins	UUJ180809.matabat2bin.299.proteins
+UUJ180827.matabat2bin.4.proteins
+INT_2029	INT_2030	UUJ180827.matabat2bin.4.proteins
+UUJ180925.matabat2bin.354.proteins
+UUJ171218.matabat2bin.19.proteins
+INT_2034	UUJ180925.matabat2bin.354.proteins	UUJ171218.matabat2bin.19.proteins
+INT_2028	INT_2029	INT_2034
+INT_2018	INT_2019	INT_2028
+INT_2012	INT_2013	INT_2018
+UUJ180815.matabat2bin.60.proteins
+UUF170620.matabat2bin.71.proteins
+INT_2042	UUJ180815.matabat2bin.60.proteins	UUF170620.matabat2bin.71.proteins
+UUF170621.matabat2bin.92.proteins
+INT_2041	INT_2042	UUF170621.matabat2bin.92.proteins
+UUJ180809.matabat2bin.45.proteins
+UUJ180809.matabat2bin.181.proteins
+UUJ170501.matabat2bin.360.proteins
+INT_2048	UUJ180809.matabat2bin.181.proteins	UUJ170501.matabat2bin.360.proteins
+INT_2046	UUJ180809.matabat2bin.45.proteins	INT_2048
+INT_2040	INT_2041	INT_2046
+UUJ170523.matabat2bin.223.proteins
+INT_2039	INT_2040	UUJ170523.matabat2bin.223.proteins
+UUJ180110.matabat2bin.229.proteins
+UUJ180219.matabat2bin.218.proteins
+INT_2052	UUJ180110.matabat2bin.229.proteins	UUJ180219.matabat2bin.218.proteins
+INT_2038	INT_2039	INT_2052
+UUJ170501.matabat2bin.117.proteins
+UUM180827.matabat2bin.193.proteins
+INT_2057	UUJ170501.matabat2bin.117.proteins	UUM180827.matabat2bin.193.proteins
+UUJ180802.matabat2bin.144.proteins
+UUJ171218.matabat2bin.271.proteins
+INT_2063	UUJ180802.matabat2bin.144.proteins	UUJ171218.matabat2bin.271.proteins
+UUJ180510.matabat2bin.448.proteins
+INT_2062	INT_2063	UUJ180510.matabat2bin.448.proteins
+UUJ180802.matabat2bin.296.proteins
+UUJ170523.matabat2bin.344.proteins
+UUJ170927.matabat2bin.350.proteins
+INT_2069	UUJ170523.matabat2bin.344.proteins	UUJ170927.matabat2bin.350.proteins
+INT_2067	UUJ180802.matabat2bin.296.proteins	INT_2069
+INT_2061	INT_2062	INT_2067
+UUJ171218.matabat2bin.214.proteins
+UUJ180219.matabat2bin.139.proteins
+INT_2074	UUJ171218.matabat2bin.214.proteins	UUJ180219.matabat2bin.139.proteins
+UUJ180622.matabat2bin.92.proteins
+INT_2073	INT_2074	UUJ180622.matabat2bin.92.proteins
+UUJ171218.matabat2bin.197.proteins
+INT_2072	INT_2073	UUJ171218.matabat2bin.197.proteins
+INT_2060	INT_2061	INT_2072
+INT_2056	INT_2057	INT_2060
+UUJ180622.matabat2bin.385.proteins
+INT_2055	INT_2056	UUJ180622.matabat2bin.385.proteins
+INT_2037	INT_2038	INT_2055
+INT_2011	INT_2012	INT_2037
+UUJ180410.matabat2bin.110.proteins
+INT_2010	INT_2011	UUJ180410.matabat2bin.110.proteins
+UUJ170612.matabat2bin.246.proteins
+INT_2009	INT_2010	UUJ170612.matabat2bin.246.proteins
+UUJ180622.matabat2bin.389.proteins
+UUJ180718.matabat2bin.136.proteins
+INT_2085	UUJ180622.matabat2bin.389.proteins	UUJ180718.matabat2bin.136.proteins
+UUJ170306.matabat2bin.256.proteins
+INT_2084	INT_2085	UUJ170306.matabat2bin.256.proteins
+UUJ170626.matabat2bin.196.proteins
+UUJ180528.matabat2bin.275.proteins
+INT_2091	UUJ170626.matabat2bin.196.proteins	UUJ180528.matabat2bin.275.proteins
+UUM180827.matabat2bin.35.proteins
+INT_2090	INT_2091	UUM180827.matabat2bin.35.proteins
+UUJ170523.matabat2bin.176.proteins
+UUF170621.matabat2bin.76.proteins
+INT_2095	UUJ170523.matabat2bin.176.proteins	UUF170621.matabat2bin.76.proteins
+INT_2089	INT_2090	INT_2095
+INT_2083	INT_2084	INT_2089
+UUJ180219.matabat2bin.8.proteins
+UUJ170306.matabat2bin.107.proteins
+UUJ170927.matabat2bin.236.proteins
+INT_2109	UUJ170306.matabat2bin.107.proteins	UUJ170927.matabat2bin.236.proteins
+UUJ180622.matabat2bin.421.proteins
+INT_2108	INT_2109	UUJ180622.matabat2bin.421.proteins
+UUJ180827.matabat2bin.130.proteins
+INT_2107	INT_2108	UUJ180827.matabat2bin.130.proteins
+UUJ180219.matabat2bin.229.proteins
+UUJ180110.matabat2bin.39.proteins
+UUJ170523.matabat2bin.219.proteins
+UUJ180510.matabat2bin.319.proteins
+INT_2118	UUJ170523.matabat2bin.219.proteins	UUJ180510.matabat2bin.319.proteins
+INT_2116	UUJ180110.matabat2bin.39.proteins	INT_2118
+INT_2114	UUJ180219.matabat2bin.229.proteins	INT_2116
+INT_2106	INT_2107	INT_2114
+UUJ180815.matabat2bin.354.proteins
+UUJ170523.matabat2bin.172.proteins
+UUJ170927.matabat2bin.73.proteins
+INT_2125	UUJ170523.matabat2bin.172.proteins	UUJ170927.matabat2bin.73.proteins
+UUJ180510.matabat2bin.329.proteins
+INT_2124	INT_2125	UUJ180510.matabat2bin.329.proteins
+INT_2122	UUJ180815.matabat2bin.354.proteins	INT_2124
+UUJ180827.matabat2bin.24.proteins
+INT_2121	INT_2122	UUJ180827.matabat2bin.24.proteins
+INT_2105	INT_2106	INT_2121
+UUJ170501.matabat2bin.264.proteins
+INT_2104	INT_2105	UUJ170501.matabat2bin.264.proteins
+INT_2102	UUJ180219.matabat2bin.8.proteins	INT_2104
+UUJ170620.matabat2bin.389.proteins
+UUJ170501.matabat2bin.334.proteins
+INT_2132	UUJ170620.matabat2bin.389.proteins	UUJ170501.matabat2bin.334.proteins
+UUJ180827.matabat2bin.128.proteins
+UUJ180510.matabat2bin.172.proteins
+INT_2136	UUJ180827.matabat2bin.128.proteins	UUJ180510.matabat2bin.172.proteins
+UUJ180510.matabat2bin.6.proteins
+INT_2135	INT_2136	UUJ180510.matabat2bin.6.proteins
+INT_2131	INT_2132	INT_2135
+INT_2101	INT_2102	INT_2131
+UUJ170927.matabat2bin.21.proteins
+UUJ170501.matabat2bin.351.proteins
+INT_2141	UUJ170927.matabat2bin.21.proteins	UUJ170501.matabat2bin.351.proteins
+UUJ171218.matabat2bin.8.proteins
+UUJ170105.matabat2bin.346.proteins
+INT_2145	UUJ171218.matabat2bin.8.proteins	UUJ170105.matabat2bin.346.proteins
+UUJ170927.matabat2bin.24.decontaminated.proteins
+INT_2144	INT_2145	UUJ170927.matabat2bin.24.decontaminated.proteins
+INT_2140	INT_2141	INT_2144
+INT_2100	INT_2101	INT_2140
+UUJ180219.matabat2bin.217.proteins
+INT_2099	INT_2100	UUJ180219.matabat2bin.217.proteins
+UUJ180219.matabat2bin.224.proteins
+UUJ170501.matabat2bin.320.proteins
+INT_2151	UUJ180219.matabat2bin.224.proteins	UUJ170501.matabat2bin.320.proteins
+UUJ171218.matabat2bin.245.proteins
+INT_2150	INT_2151	UUJ171218.matabat2bin.245.proteins
+INT_2098	INT_2099	INT_2150
+INT_2082	INT_2083	INT_2098
+INT_2008	INT_2009	INT_2082
+UUJ170927.matabat2bin.295.proteins
+UUJ170714.matabat2bin.310.proteins
+UUJ170523.matabat2bin.104.proteins
+INT_2162	UUJ170714.matabat2bin.310.proteins	UUJ170523.matabat2bin.104.proteins
+UUJ170306.matabat2bin.5.proteins
+INT_2161	INT_2162	UUJ170306.matabat2bin.5.proteins
+UUJ180219.matabat2bin.81.proteins
+INT_2160	INT_2161	UUJ180219.matabat2bin.81.proteins
+INT_2158	UUJ170927.matabat2bin.295.proteins	INT_2160
+UUJ170615.matabat2bin.291.proteins
+INT_2157	INT_2158	UUJ170615.matabat2bin.291.proteins
+UUJ170523.matabat2bin.213.proteins
+UUJ170620.matabat2bin.77.proteins
+UUJ180219.matabat2bin.54.proteins
+INT_2171	UUJ170620.matabat2bin.77.proteins	UUJ180219.matabat2bin.54.proteins
+INT_2169	UUJ170523.matabat2bin.213.proteins	INT_2171
+UUF170620.matabat2bin.302.proteins
+UUJ170501.matabat2bin.249.proteins
+INT_2175	UUF170620.matabat2bin.302.proteins	UUJ170501.matabat2bin.249.proteins
+UUJ180528.matabat2bin.26.proteins
+INT_2174	INT_2175	UUJ180528.matabat2bin.26.proteins
+INT_2168	INT_2169	INT_2174
+INT_2156	INT_2157	INT_2168
+UUJ170927.matabat2bin.30.proteins
+INT_2155	INT_2156	UUJ170927.matabat2bin.30.proteins
+INT_2007	INT_2008	INT_2155
+INT_1885	INT_1886	INT_2007
+INT_789	INT_790	INT_1885
+UUJ170630.matabat2bin.410.decontaminated.proteins
+UUJ180925.matabat2bin.140.decontaminated.proteins
+UUJ180629.matabat2bin.269.decontaminated.proteins
+UUJ171110.matabat2bin.286.proteins
+INT_2189	UUJ180629.matabat2bin.269.decontaminated.proteins	UUJ171110.matabat2bin.286.proteins
+INT_2187	UUJ180925.matabat2bin.140.decontaminated.proteins	INT_2189
+INT_2185	UUJ170630.matabat2bin.410.decontaminated.proteins	INT_2187
+UUJ180925.matabat2bin.331.proteins
+INT_2184	INT_2185	UUJ180925.matabat2bin.331.proteins
+UUM180827.matabat2bin.195.proteins
+UUJ180903.matabat2bin.140.proteins
+INT_2194	UUM180827.matabat2bin.195.proteins	UUJ180903.matabat2bin.140.proteins
+UUJ180510.matabat2bin.409.proteins
+UUJ170721.matabat2bin.67.proteins
+INT_2197	UUJ180510.matabat2bin.409.proteins	UUJ170721.matabat2bin.67.proteins
+INT_2193	INT_2194	INT_2197
+INT_2183	INT_2184	INT_2193
+UUJ170412.matabat2bin.171.proteins
+UUJ180219.matabat2bin.39.decontaminated.proteins
+INT_2202	UUJ170412.matabat2bin.171.proteins	UUJ180219.matabat2bin.39.decontaminated.proteins
+UUJ180219.matabat2bin.200.proteins
+INT_2201	INT_2202	UUJ180219.matabat2bin.200.proteins
+UUJ171218.matabat2bin.342.proteins
+UUJ171218.matabat2bin.272.proteins
+UUJ180903.matabat2bin.110.proteins
+INT_2211	UUJ171218.matabat2bin.272.proteins	UUJ180903.matabat2bin.110.proteins
+UUJ180802.matabat2bin.351.proteins
+INT_2210	INT_2211	UUJ180802.matabat2bin.351.proteins
+INT_2208	UUJ171218.matabat2bin.342.proteins	INT_2210
+UUJ170501.matabat2bin.314.proteins
+UUJ180827.matabat2bin.144.proteins
+INT_2215	UUJ170501.matabat2bin.314.proteins	UUJ180827.matabat2bin.144.proteins
+INT_2207	INT_2208	INT_2215
+UUJ170620.matabat2bin.195.proteins
+INT_2206	INT_2207	UUJ170620.matabat2bin.195.proteins
+INT_2200	INT_2201	INT_2206
+INT_2182	INT_2183	INT_2200
+UUJ170706.matabat2bin.220.proteins
+UUJ170626.matabat2bin.201.proteins
+INT_2222	UUJ170706.matabat2bin.220.proteins	UUJ170626.matabat2bin.201.proteins
+UUJ170626.matabat2bin.44.proteins
+UUJ180827.matabat2bin.196.proteins
+INT_2225	UUJ170626.matabat2bin.44.proteins	UUJ180827.matabat2bin.196.proteins
+INT_2221	INT_2222	INT_2225
+UUJ170721.matabat2bin.294.proteins
+INT_2220	INT_2221	UUJ170721.matabat2bin.294.proteins
+UUJ171218.matabat2bin.10.decontaminated.proteins
+INT_2219	INT_2220	UUJ171218.matabat2bin.10.decontaminated.proteins
+INT_2181	INT_2182	INT_2219
+UUJ180718.matabat2bin.155.decontaminated.proteins
+UUJ180410.matabat2bin.135.proteins
+INT_2232	UUJ180718.matabat2bin.155.decontaminated.proteins	UUJ180410.matabat2bin.135.proteins
+UUJ180410.matabat2bin.368.proteins
+INT_2231	INT_2232	UUJ180410.matabat2bin.368.proteins
+010.Aureococcus.anophagefferens.virus.isolate.BtV-01.proteins
+UUJ180510.matabat2bin.59.proteins
+INT_2239	010.Aureococcus.anophagefferens.virus.isolate.BtV-01.proteins	UUJ180510.matabat2bin.59.proteins
+UUJ180410.matabat2bin.295.proteins
+INT_2238	INT_2239	UUJ180410.matabat2bin.295.proteins
+UUJ170620.matabat2bin.36.proteins
+INT_2237	INT_2238	UUJ170620.matabat2bin.36.proteins
+UUJ170523.matabat2bin.177.proteins
+INT_2236	INT_2237	UUJ170523.matabat2bin.177.proteins
+INT_2230	INT_2231	INT_2236
+INT_2180	INT_2181	INT_2230
+INT_788	INT_789	INT_2180
+INT_658	INT_659	INT_788
+UUJ180815.matabat2bin.13.proteins
+UUJ180827.matabat2bin.419.proteins
+INT_2246	UUJ180815.matabat2bin.13.proteins	UUJ180827.matabat2bin.419.proteins
+UUJ180313.matabat2bin.36.proteins
+UUJ171218.matabat2bin.50.proteins
+INT_2250	UUJ180313.matabat2bin.36.proteins	UUJ171218.matabat2bin.50.proteins
+UUJ171218.matabat2bin.234.proteins
+INT_2249	INT_2250	UUJ171218.matabat2bin.234.proteins
+INT_2245	INT_2246	INT_2249
+INT_657	INT_658	INT_2245
+002.Megavirus.chiliensis.proteins
+134.Megavirus.lba.proteins
+INT_2262	002.Megavirus.chiliensis.proteins	134.Megavirus.lba.proteins
+132.Megavirus.courdo11.proteins
+INT_2261	INT_2262	132.Megavirus.courdo11.proteins
+137.Moumouvirus.australiensis.proteins
+138.Moumouvirus.goulette.proteins
+INT_2267	137.Moumouvirus.australiensis.proteins	138.Moumouvirus.goulette.proteins
+005.Acanthamoeba.polyphaga.moumouvirus.proteins
+INT_2266	INT_2267	005.Acanthamoeba.polyphaga.moumouvirus.proteins
+INT_2260	INT_2261	INT_2266
+013.Niemeyer.virus.proteins
+004.Acanthamoeba.polyphaga.mimivirus.proteins
+136.Samba.virus.proteins
+INT_2276	004.Acanthamoeba.polyphaga.mimivirus.proteins	136.Samba.virus.proteins
+INT_2274	013.Niemeyer.virus.proteins	INT_2276
+014.Hirudovirus.strain.Sangsue.proteins
+INT_2273	INT_2274	014.Hirudovirus.strain.Sangsue.proteins
+135.Acanthamoeba.castellanii.mamavirus.proteins
+INT_2272	INT_2273	135.Acanthamoeba.castellanii.mamavirus.proteins
+001.Mimivirus.terra2.proteins
+INT_2271	INT_2272	001.Mimivirus.terra2.proteins
+INT_2259	INT_2260	INT_2271
+012.Tupanvirus.deep.ocean.proteins
+011.Tupanvirus.soda.lake.proteins
+INT_2282	012.Tupanvirus.deep.ocean.proteins	011.Tupanvirus.soda.lake.proteins
+INT_2258	INT_2259	INT_2282
+UUJ170927.matabat2bin.256.proteins
+INT_2257	INT_2258	UUJ170927.matabat2bin.256.proteins
+UUJ170818.matabat2bin.229.proteins
+UUJ170620.matabat2bin.475.proteins
+INT_2290	UUJ170818.matabat2bin.229.proteins	UUJ170620.matabat2bin.475.proteins
+UUJ170706.matabat2bin.256.proteins
+UUJ170714.matabat2bin.7.proteins
+INT_2293	UUJ170706.matabat2bin.256.proteins	UUJ170714.matabat2bin.7.proteins
+INT_2289	INT_2290	INT_2293
+018.Klosneuvirus.KNV1.proteins
+021.Indivirus.ILV1.proteins
+INT_2296	018.Klosneuvirus.KNV1.proteins	021.Indivirus.ILV1.proteins
+INT_2288	INT_2289	INT_2296
+UUJ170615.matabat2bin.333.proteins
+UUJ171113.matabat2bin.14.proteins
+INT_2301	UUJ170615.matabat2bin.333.proteins	UUJ171113.matabat2bin.14.proteins
+131.Yasminevirus.proteins
+009.Bodo.saltans.virus.strain.NG1.proteins
+INT_2305	131.Yasminevirus.proteins	009.Bodo.saltans.virus.strain.NG1.proteins
+020.Catovirus.CTV1.proteins
+INT_2304	INT_2305	020.Catovirus.CTV1.proteins
+INT_2300	INT_2301	INT_2304
+UUJ171027.matabat2bin.182.proteins
+UUJ170630.matabat2bin.185.proteins
+INT_2309	UUJ171027.matabat2bin.182.proteins	UUJ170630.matabat2bin.185.proteins
+INT_2299	INT_2300	INT_2309
+INT_2287	INT_2288	INT_2299
+019.Hokovirus.HKV1.proteins
+INT_2286	INT_2287	019.Hokovirus.HKV1.proteins
+INT_2256	INT_2257	INT_2286
+UUJ180510.matabat2bin.223.proteins
+UUJ180725.matabat2bin.139.proteins
+UUJ180219.matabat2bin.181.proteins
+INT_2324	UUJ180725.matabat2bin.139.proteins	UUJ180219.matabat2bin.181.proteins
+UUJ180110.matabat2bin.169.proteins
+INT_2323	INT_2324	UUJ180110.matabat2bin.169.proteins
+UUJ171218.matabat2bin.159.proteins
+UUJ180802.matabat2bin.436.proteins
+INT_2328	UUJ171218.matabat2bin.159.proteins	UUJ180802.matabat2bin.436.proteins
+INT_2322	INT_2323	INT_2328
+UUJ170105.matabat2bin.191.proteins
+UUJ170306.matabat2bin.81.proteins
+UUJ180827.matabat2bin.111.proteins
+INT_2333	UUJ170306.matabat2bin.81.proteins	UUJ180827.matabat2bin.111.proteins
+INT_2331	UUJ170105.matabat2bin.191.proteins	INT_2333
+INT_2321	INT_2322	INT_2331
+UUJ171218.matabat2bin.256.decontaminated.proteins
+INT_2320	INT_2321	UUJ171218.matabat2bin.256.decontaminated.proteins
+UUJ180510.matabat2bin.299.decontaminated.proteins
+INT_2319	INT_2320	UUJ180510.matabat2bin.299.decontaminated.proteins
+INT_2317	UUJ180510.matabat2bin.223.proteins	INT_2319
+UUJ170726.matabat2bin.161.proteins
+UUJ170804.matabat2bin.319.proteins
+INT_2339	UUJ170726.matabat2bin.161.proteins	UUJ170804.matabat2bin.319.proteins
+UUF170620.matabat2bin.305.proteins
+UUM180827.matabat2bin.169.proteins
+UUJ180510.matabat2bin.248.proteins
+INT_2344	UUM180827.matabat2bin.169.proteins	UUJ180510.matabat2bin.248.proteins
+INT_2342	UUF170620.matabat2bin.305.proteins	INT_2344
+INT_2338	INT_2339	INT_2342
+INT_2316	INT_2317	INT_2338
+UUM180827.matabat2bin.38.proteins
+003.Cafeteria.roenbergensis.virus.BV-PW1.proteins
+INT_2348	UUM180827.matabat2bin.38.proteins	003.Cafeteria.roenbergensis.virus.BV-PW1.proteins
+UUJ170804.matabat2bin.10.proteins
+INT_2347	INT_2348	UUJ170804.matabat2bin.10.proteins
+INT_2315	INT_2316	INT_2347
+UUJ180510.matabat2bin.280.proteins
+INT_2314	INT_2315	UUJ180510.matabat2bin.280.proteins
+UUJ180410.matabat2bin.49.decontaminated.proteins
+UUJ180219.matabat2bin.137.proteins
+INT_2355	UUJ180410.matabat2bin.49.decontaminated.proteins	UUJ180219.matabat2bin.137.proteins
+UUJ180410.matabat2bin.219.proteins
+UUJ180903.matabat2bin.130.proteins
+UUJ180815.matabat2bin.108.proteins
+INT_2361	UUJ180903.matabat2bin.130.proteins	UUJ180815.matabat2bin.108.proteins
+INT_2359	UUJ180410.matabat2bin.219.proteins	INT_2361
+UUJ170804.matabat2bin.137.proteins
+INT_2358	INT_2359	UUJ170804.matabat2bin.137.proteins
+INT_2354	INT_2355	INT_2358
+UUJ170620.matabat2bin.388.proteins
+UUJ180718.matabat2bin.313.proteins
+INT_2366	UUJ170620.matabat2bin.388.proteins	UUJ180718.matabat2bin.313.proteins
+017.Namao.virus.proteins
+INT_2365	INT_2366	017.Namao.virus.proteins
+INT_2353	INT_2354	INT_2365
+INT_2313	INT_2314	INT_2353
+INT_2255	INT_2256	INT_2313
+UUJ180528.matabat2bin.84.proteins
+INT_2254	INT_2255	UUJ180528.matabat2bin.84.proteins
+INT_656	INT_657	INT_2254
+UUJ180110.matabat2bin.67.proteins
+INT_655	INT_656	UUJ180110.matabat2bin.67.proteins
+UUJ171110.matabat2bin.248.proteins
+INT_654	INT_655	UUJ171110.matabat2bin.248.proteins
+UUJ180622.matabat2bin.133.proteins
+UUJ180718.matabat2bin.20.proteins
+UUJ170927.matabat2bin.327.proteins
+UUJ170818.matabat2bin.2.proteins
+INT_2385	UUJ170927.matabat2bin.327.proteins	UUJ170818.matabat2bin.2.proteins
+INT_2383	UUJ180718.matabat2bin.20.proteins	INT_2385
+INT_2381	UUJ180622.matabat2bin.133.proteins	INT_2383
+UUJ170726.matabat2bin.167.decontaminated.proteins
+UUF170620.matabat2bin.3.proteins
+UUJ180802.matabat2bin.284.proteins
+INT_2392	UUF170620.matabat2bin.3.proteins	UUJ180802.matabat2bin.284.proteins
+INT_2390	UUJ170726.matabat2bin.167.decontaminated.proteins	INT_2392
+UUJ170523.matabat2bin.72.decontaminated.proteins
+UUJ180725.matabat2bin.252.proteins
+UUJ170804.matabat2bin.35.proteins
+UUJ180313.matabat2bin.2.proteins
+UUJ180827.matabat2bin.105.proteins
+INT_2402	UUJ180313.matabat2bin.2.proteins	UUJ180827.matabat2bin.105.proteins
+INT_2400	UUJ170804.matabat2bin.35.proteins	INT_2402
+INT_2398	UUJ180725.matabat2bin.252.proteins	INT_2400
+INT_2396	UUJ170523.matabat2bin.72.decontaminated.proteins	INT_2398
+UUJ180622.matabat2bin.353.proteins
+UUJ170804.matabat2bin.139.proteins
+INT_2406	UUJ180622.matabat2bin.353.proteins	UUJ170804.matabat2bin.139.proteins
+UUJ180510.matabat2bin.396.proteins
+UUJ170721.matabat2bin.347.proteins
+INT_2409	UUJ180510.matabat2bin.396.proteins	UUJ170721.matabat2bin.347.proteins
+INT_2405	INT_2406	INT_2409
+INT_2395	INT_2396	INT_2405
+INT_2389	INT_2390	INT_2395
+UUJ180510.matabat2bin.289.proteins
+UUJ170721.matabat2bin.364.decontaminated.proteins
+UUJ180313.matabat2bin.61.proteins
+UUJ170501.matabat2bin.307.proteins
+INT_2418	UUJ180313.matabat2bin.61.proteins	UUJ170501.matabat2bin.307.proteins
+UUJ180629.matabat2bin.295.proteins
+UUJ180725.matabat2bin.334.proteins
+INT_2423	UUJ180629.matabat2bin.295.proteins	UUJ180725.matabat2bin.334.proteins
+UUJ170523.matabat2bin.38.proteins
+INT_2422	INT_2423	UUJ170523.matabat2bin.38.proteins
+UUJ170523.matabat2bin.266.proteins
+INT_2421	INT_2422	UUJ170523.matabat2bin.266.proteins
+INT_2417	INT_2418	INT_2421
+INT_2415	UUJ170721.matabat2bin.364.decontaminated.proteins	INT_2417
+INT_2413	UUJ180510.matabat2bin.289.proteins	INT_2415
+UUJ170620.matabat2bin.16.decontaminated.proteins
+UUJ180725.matabat2bin.308.decontaminated.proteins
+INT_2428	UUJ170620.matabat2bin.16.decontaminated.proteins	UUJ180725.matabat2bin.308.decontaminated.proteins
+INT_2412	INT_2413	INT_2428
+INT_2388	INT_2389	INT_2412
+INT_2380	INT_2381	INT_2388
+UUJ180510.matabat2bin.28.proteins
+UUJ180725.matabat2bin.261.proteins
+INT_2431	UUJ180510.matabat2bin.28.proteins	UUJ180725.matabat2bin.261.proteins
+INT_2379	INT_2380	INT_2431
+UUJ170612.matabat2bin.207.decontaminated.proteins
+INT_2378	INT_2379	UUJ170612.matabat2bin.207.decontaminated.proteins
+UUJ171113.matabat2bin.303.proteins
+UUJ170620.matabat2bin.423.decontaminated.proteins
+INT_2435	UUJ171113.matabat2bin.303.proteins	UUJ170620.matabat2bin.423.decontaminated.proteins
+INT_2377	INT_2378	INT_2435
+UUJ171113.matabat2bin.118.proteins
+INT_2376	INT_2377	UUJ171113.matabat2bin.118.proteins
+UUJ180410.matabat2bin.10.proteins
+INT_2375	INT_2376	UUJ180410.matabat2bin.10.proteins
+UUJ180827.matabat2bin.403.proteins
+UUM180827.matabat2bin.1.proteins
+INT_2440	UUJ180827.matabat2bin.403.proteins	UUM180827.matabat2bin.1.proteins
+INT_2374	INT_2375	INT_2440
+027.Heterosigma.akashiwo.virus.01.isolate.HaV53.proteins
+UUJ180510.matabat2bin.198.proteins
+INT_2443	027.Heterosigma.akashiwo.virus.01.isolate.HaV53.proteins	UUJ180510.matabat2bin.198.proteins
+INT_2373	INT_2374	INT_2443
+INT_653	INT_654	INT_2373
+UUJ180815.matabat2bin.111.proteins
+UUM180827.matabat2bin.325.proteins
+INT_2448	UUJ180815.matabat2bin.111.proteins	UUM180827.matabat2bin.325.proteins
+UUJ180802.matabat2bin.41.proteins
+UUJ180410.matabat2bin.139.decontaminated.proteins
+INT_2451	UUJ180802.matabat2bin.41.proteins	UUJ180410.matabat2bin.139.decontaminated.proteins
+INT_2447	INT_2448	INT_2451
+UUJ170306.matabat2bin.4.proteins
+UUJ180725.matabat2bin.341.proteins
+INT_2456	UUJ170306.matabat2bin.4.proteins	UUJ180725.matabat2bin.341.proteins
+026.Acanthocystis.turfacea.Chlorella.virus.1.proteins
+143.Paramecium.bursaria.chlorella.virus.MT325.proteins
+034.Paramecium.bursaria.Chlorella.virus.FR483.proteins
+INT_2462	143.Paramecium.bursaria.chlorella.virus.MT325.proteins	034.Paramecium.bursaria.Chlorella.virus.FR483.proteins
+INT_2460	026.Acanthocystis.turfacea.Chlorella.virus.1.proteins	INT_2462
+145.Paramecium.bursaria.Chlorella.virus.NYs1.proteins
+142.Paramecium.bursaria.Chlorella.virus.AR158.proteins
+144.Paramecium.bursaria.Chlorella.virus.NY2A.proteins
+INT_2468	142.Paramecium.bursaria.Chlorella.virus.AR158.proteins	144.Paramecium.bursaria.Chlorella.virus.NY2A.proteins
+INT_2466	145.Paramecium.bursaria.Chlorella.virus.NYs1.proteins	INT_2468
+141.Only.Syngen.Nebraska.virus.5.proteins
+025.Paramecium.bursaria.Chlorella.virus.1.proteins
+INT_2471	141.Only.Syngen.Nebraska.virus.5.proteins	025.Paramecium.bursaria.Chlorella.virus.1.proteins
+INT_2465	INT_2466	INT_2471
+INT_2459	INT_2460	INT_2465
+INT_2455	INT_2456	INT_2459
+140.Bathycoccus.sp..RCC1105.virus.BpV2.proteins
+033.Bathycoccus.sp.RCC1105.virus.BpV1.proteins
+INT_2478	140.Bathycoccus.sp..RCC1105.virus.BpV2.proteins	033.Bathycoccus.sp.RCC1105.virus.BpV1.proteins
+UUJ180725.matabat2bin.43.proteins
+UUJ170105.matabat2bin.298.proteins
+INT_2481	UUJ180725.matabat2bin.43.proteins	UUJ170105.matabat2bin.298.proteins
+INT_2477	INT_2478	INT_2481
+031.Micromonas.pusilla.virus.SP1.proteins
+UUM180827.matabat2bin.353.proteins
+032.Micromonas.sp.RCC1109.virus.MpV1.proteins
+INT_2488	UUM180827.matabat2bin.353.proteins	032.Micromonas.sp.RCC1109.virus.MpV1.proteins
+INT_2486	031.Micromonas.pusilla.virus.SP1.proteins	INT_2488
+160.Ostreococcus.lucimarinus.virus.7.proteins
+024.Ostreococcus.lucimarinus.virus.OlV1.proteins
+INT_2493	160.Ostreococcus.lucimarinus.virus.7.proteins	024.Ostreococcus.lucimarinus.virus.OlV1.proteins
+163.Ostreococcus.tauri.virus.1.proteins
+023.Ostreococcus.tauri.virus.OtV5.proteins
+162.Ostreococcus.mediterraneus.virus.1.proteins
+INT_2499	023.Ostreococcus.tauri.virus.OtV5.proteins	162.Ostreococcus.mediterraneus.virus.1.proteins
+INT_2497	163.Ostreococcus.tauri.virus.1.proteins	INT_2499
+159.Ostreococcus.lucimarinus.virus.2.proteins
+164.Ostreococcus.tauri.virus.2.proteins
+161.Ostreococcus.lucimarinus.virus.OlV5.proteins
+INT_2504	164.Ostreococcus.tauri.virus.2.proteins	161.Ostreococcus.lucimarinus.virus.OlV5.proteins
+INT_2502	159.Ostreococcus.lucimarinus.virus.2.proteins	INT_2504
+INT_2496	INT_2497	INT_2502
+INT_2492	INT_2493	INT_2496
+UUJ171218.matabat2bin.278.proteins
+INT_2491	INT_2492	UUJ171218.matabat2bin.278.proteins
+INT_2485	INT_2486	INT_2491
+158.Micromonas.pusilla.virus.12T.proteins
+INT_2484	INT_2485	158.Micromonas.pusilla.virus.12T.proteins
+INT_2476	INT_2477	INT_2484
+UUJ170818.matabat2bin.238.proteins
+INT_2475	INT_2476	UUJ170818.matabat2bin.238.proteins
+UUF170621.matabat2bin.304.proteins
+UUJ170620.matabat2bin.228.proteins
+UUJ170623.matabat2bin.265.decontaminated.proteins
+INT_2514	UUJ170620.matabat2bin.228.proteins	UUJ170623.matabat2bin.265.decontaminated.proteins
+UUJ170306.matabat2bin.226.proteins
+UUJ180903.matabat2bin.392.proteins
+INT_2517	UUJ170306.matabat2bin.226.proteins	UUJ180903.matabat2bin.392.proteins
+INT_2513	INT_2514	INT_2517
+INT_2511	UUF170621.matabat2bin.304.proteins	INT_2513
+UUF170621.matabat2bin.253.proteins
+UUJ170630.matabat2bin.150.proteins
+INT_2521	UUF170621.matabat2bin.253.proteins	UUJ170630.matabat2bin.150.proteins
+UUJ180718.matabat2bin.406.proteins
+UUJ170804.matabat2bin.161.proteins
+UUJ180725.matabat2bin.176.decontaminated.proteins
+INT_2527	UUJ170804.matabat2bin.161.proteins	UUJ180725.matabat2bin.176.decontaminated.proteins
+INT_2525	UUJ180718.matabat2bin.406.proteins	INT_2527
+UUJ180725.matabat2bin.85.decontaminated.proteins
+UUJ170626.matabat2bin.11.proteins
+INT_2532	UUJ180725.matabat2bin.85.decontaminated.proteins	UUJ170626.matabat2bin.11.proteins
+UUJ180510.matabat2bin.167.proteins
+INT_2531	INT_2532	UUJ180510.matabat2bin.167.proteins
+UUJ180410.matabat2bin.352.proteins
+UUF170621.matabat2bin.9.proteins
+UUJ180219.matabat2bin.97.proteins
+UUJ180802.matabat2bin.345.proteins
+INT_2540	UUJ180219.matabat2bin.97.proteins	UUJ180802.matabat2bin.345.proteins
+INT_2538	UUF170621.matabat2bin.9.proteins	INT_2540
+INT_2536	UUJ180410.matabat2bin.352.proteins	INT_2538
+INT_2530	INT_2531	INT_2536
+INT_2524	INT_2525	INT_2530
+INT_2520	INT_2521	INT_2524
+INT_2510	INT_2511	INT_2520
+INT_2474	INT_2475	INT_2510
+INT_2454	INT_2455	INT_2474
+INT_2446	INT_2447	INT_2454
+INT_652	INT_653	INT_2446
+INT_456	INT_457	INT_652
+INT_148	INT_149	INT_456
+INT_0	INT_1	INT_148
